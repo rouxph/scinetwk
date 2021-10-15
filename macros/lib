@@ -3,9 +3,15 @@
   <macro name="%graph_p" file="%graph_p.bin" md5="26254bd3fe9f81dc292bb2bd3c26d568"/>
   <macro name="add_edge" file="add_edge.bin" md5="119e657c0fbe3b0d1dedae863ce4c7ee"/>
   <macro name="add_node" file="add_node.bin" md5="32525611bc4b335b19550cdaee1e63c1"/>
+  <macro name="arc_graph" file="arc_graph.bin" md5="e4a9536f459da1cdd09083874930e557"/>
+  <macro name="arc_number" file="arc_number.bin" md5="1ae21f78d95257dd99f7a5cc4390cd3a"/>
   <macro name="check_graph" file="check_graph.bin" md5="2a663ddc5615f893ec672bcb95c7bc72"/>
+  <macro name="contract_edge" file="contract_edge.bin" md5="f1632974867682a46992ad7d0c96afc1"/>
+  <macro name="cycle_basis" file="cycle_basis.bin" md5="6f6edfba3347819b291182d3984c8cdd"/>
+  <macro name="delete_arcs" file="delete_arcs.bin" md5="5abb6cb83b002f32277ef486a0ff3d03"/>
+  <macro name="delete_nodes" file="delete_nodes.bin" md5="e7634eb08c1eba50eae27982faee95e3"/>
   <macro name="graph_fields" file="graph_fields.bin" md5="30978eabf066f0151f84eaeb8fe9e195"/>
   <macro name="make_graph" file="make_graph.bin" md5="58bebbbd04078ec0cc83e9db678b4b55"/>
   <macro name="save_graph" file="save_graph.bin" md5="d5e2c32276fa59218c1d718554926f81"/>
-  <macro name="show_graph" file="show_graph.bin" md5="c67a0bee1eb78a3fe8151e947e5c13ba"/>
+  <macro name="show_graph" file="show_graph.bin" md5="4328796116b92312099296ede7d65640"/>
 </scilablib>

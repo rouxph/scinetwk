@@ -24,7 +24,7 @@ exec("builder_help.sce")
 cd("../")
 xmltopdf('help/en_US',toolbox_title,'pdf');
 //load
-printf('***************************************\n')
+printf('\n***************************************\n')
 printf('** loading  toolbox scinetwk           **\n')
 printf('***************************************\n')
 exec('etc/scinetwk.quit',-1)

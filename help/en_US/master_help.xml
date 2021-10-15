@@ -4,7 +4,13 @@
 <!ENTITY a61341556735a8a08b966fba6c1a73e0e SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/percentgraph_p.xml">
 <!ENTITY a1c10ac4754b898e6da37646fd47e5c68 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/add_edge.xml">
 <!ENTITY a2bc2505d16c6fb86a73db844c0ce4692 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/add_node.xml">
+<!ENTITY a4f669b024095b77f347df9f8823df4e4 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/arc_graph.xml">
+<!ENTITY ac45d50a765e5a80dbe7c69a440ced261 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/arc_number.xml">
 <!ENTITY a427cdd8cd7e4b0d85d0d8e2035c5537e SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/check_graph.xml">
+<!ENTITY a8e7c00430e3ce1290b3445df3f65e1c4 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/contract_edge.xml">
+<!ENTITY ae20fe458c3a90e9dd06fd7a154147a5c SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/cycle_basis.xml">
+<!ENTITY af0da576d2cd314e0c6a068e3f397c8a5 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/delete_arcs.xml">
+<!ENTITY ad9f94d2af35902a7cb6c43283ee46efa SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/delete_nodes.xml">
 <!ENTITY a88e85a89bc373df9e9ea330a5282ffa2 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/graph_fields.xml">
 <!ENTITY accd70d864646e49ab553e5aff38b3d5b SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/make_graph.xml">
 <!ENTITY a1f8961464d1ff81a72df5e18a6913a52 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/save_graph.xml">
@@ -28,7 +34,13 @@
 &a61341556735a8a08b966fba6c1a73e0e;
 &a1c10ac4754b898e6da37646fd47e5c68;
 &a2bc2505d16c6fb86a73db844c0ce4692;
+&a4f669b024095b77f347df9f8823df4e4;
+&ac45d50a765e5a80dbe7c69a440ced261;
 &a427cdd8cd7e4b0d85d0d8e2035c5537e;
+&a8e7c00430e3ce1290b3445df3f65e1c4;
+&ae20fe458c3a90e9dd06fd7a154147a5c;
+&af0da576d2cd314e0c6a068e3f397c8a5;
+&ad9f94d2af35902a7cb6c43283ee46efa;
 &a88e85a89bc373df9e9ea330a5282ffa2;
 &accd70d864646e49ab553e5aff38b3d5b;
 &a1f8961464d1ff81a72df5e18a6913a52;

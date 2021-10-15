@@ -5,7 +5,13 @@
 <tocitem target="section_1f55602daa6b69723be33a233cae2d30" text="scinetwk">
 <tocitem target="add_edge" text="add_edge"/>
 <tocitem target="add_node" text="add_node"/>
+<tocitem target="arc_graph" text="arc_graph"/>
+<tocitem target="arc_number" text="arc_number"/>
 <tocitem target="check_graph" text="check_graph"/>
+<tocitem target="contract_edge" text="contract_edge"/>
+<tocitem target="cycle_basis" text="cycle_basis"/>
+<tocitem target="delete_arcs" text="delete_arcs"/>
+<tocitem target="delete_nodes" text="delete_nodes"/>
 <tocitem target="graph_fields" text="graph_fields"/>
 <tocitem target="make_graph" text="make_graph"/>
 <tocitem target="percentgraph_p" text="%graph_p"/>

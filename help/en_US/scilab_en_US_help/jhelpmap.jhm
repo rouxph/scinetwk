@@ -5,7 +5,13 @@
 <mapID target="section_1f55602daa6b69723be33a233cae2d30" url="section_1f55602daa6b69723be33a233cae2d30.html"/>
 <mapID target="add_edge" url="add_edge.html"/>
 <mapID target="add_node" url="add_node.html"/>
+<mapID target="arc_graph" url="arc_graph.html"/>
+<mapID target="arc_number" url="arc_number.html"/>
 <mapID target="check_graph" url="check_graph.html"/>
+<mapID target="contract_edge" url="contract_edge.html"/>
+<mapID target="cycle_basis" url="cycle_basis.html"/>
+<mapID target="delete_arcs" url="delete_arcs.html"/>
+<mapID target="delete_nodes" url="delete_nodes.html"/>
 <mapID target="graph_fields" url="graph_fields.html"/>
 <mapID target="make_graph" url="make_graph.html"/>
 <mapID target="percentgraph_p" url="percentgraph_p.html"/>

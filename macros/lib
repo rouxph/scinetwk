@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="scinetwklib">
+  <macro name="%graph_p" file="%graph_p.bin" md5="26254bd3fe9f81dc292bb2bd3c26d568"/>
+  <macro name="add_edge" file="add_edge.bin" md5="119e657c0fbe3b0d1dedae863ce4c7ee"/>
+  <macro name="add_node" file="add_node.bin" md5="32525611bc4b335b19550cdaee1e63c1"/>
+  <macro name="check_graph" file="check_graph.bin" md5="2a663ddc5615f893ec672bcb95c7bc72"/>
+  <macro name="graph_fields" file="graph_fields.bin" md5="30978eabf066f0151f84eaeb8fe9e195"/>
+  <macro name="make_graph" file="make_graph.bin" md5="58bebbbd04078ec0cc83e9db678b4b55"/>
+  <macro name="save_graph" file="save_graph.bin" md5="d5e2c32276fa59218c1d718554926f81"/>
+  <macro name="show_graph" file="show_graph.bin" md5="c67a0bee1eb78a3fe8151e947e5c13ba"/>
+</scilablib>

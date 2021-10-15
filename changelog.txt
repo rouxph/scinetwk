@@ -1,0 +1,8 @@
+changelog of the scinetwk
+
+
+scinetwk  0.0
+    * toolbox creation
+    * make_graph, check_graph, graph_fields, save_graph,show_graph
+ -- Philippe ROUX <philipe.roux@univ-rennes1.fr>  01/10/2021 
+

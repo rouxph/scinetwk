@@ -1,0 +1,31 @@
+Toolbox: toolbox_skeleton
+
+Title: Toolbox Skeleton
+
+Summary: Skeleton of a valid atoms package
+
+Version: 5.5.0
+
+Author: Scilab
+
+Maintainer: Dominique Callens <dominique.callens@scilab-enterprises.com>
+
+Category: Tests
+ Technical
+
+Entity: Scilab Enterprises
+
+WebSite: http://www.scilab.org
+
+URL: http://atoms.scilab.org/toolboxes/toolbox_skeleton/5.5.0
+
+License: CeCILL
+
+ScilabVersion: >= 5.5.0
+
+Depends: 
+
+Date: 2014-04-18 09:16:12
+
+Description: Skeleton of a valid atoms package
+

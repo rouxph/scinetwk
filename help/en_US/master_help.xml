@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book [
+<!--Begin Entities-->
+<!ENTITY a61341556735a8a08b966fba6c1a73e0e SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/percentgraph_p.xml">
+<!ENTITY a1c10ac4754b898e6da37646fd47e5c68 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/add_edge.xml">
+<!ENTITY a2bc2505d16c6fb86a73db844c0ce4692 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/add_node.xml">
+<!ENTITY a427cdd8cd7e4b0d85d0d8e2035c5537e SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/check_graph.xml">
+<!ENTITY a88e85a89bc373df9e9ea330a5282ffa2 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/graph_fields.xml">
+<!ENTITY accd70d864646e49ab553e5aff38b3d5b SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/make_graph.xml">
+<!ENTITY a1f8961464d1ff81a72df5e18a6913a52 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/save_graph.xml">
+<!ENTITY a582dd19a3cc572cfab9c5914c23c5e22 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/show_graph.xml">
+<!--End Entities-->
+]>
+<book version="5.0-subset Scilab" xml:lang="pdf"
+      xmlns="http://docbook.org/ns/docbook"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:svg="http://www.w3.org/2000/svg"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:html="http://www.w3.org/1999/xhtml"
+      xmlns:db="http://docbook.org/ns/docbook">
+  <info xml:id='scinetwk_manual'>
+    <title>scinetwk</title>
+  </info>
+
+<part xml:id='section_1f55602daa6b69723be33a233cae2d30'>
+<title>scinetwk</title>
+&a61341556735a8a08b966fba6c1a73e0e;
+&a1c10ac4754b898e6da37646fd47e5c68;
+&a2bc2505d16c6fb86a73db844c0ce4692;
+&a427cdd8cd7e4b0d85d0d8e2035c5537e;
+&a88e85a89bc373df9e9ea330a5282ffa2;
+&accd70d864646e49ab553e5aff38b3d5b;
+&a1f8961464d1ff81a72df5e18a6913a52;
+&a582dd19a3cc572cfab9c5914c23c5e22;
+<chapter xml:id='section_1b24762cce07aa36f40c2786b8a9b78c'>
+<title>scilab_pdf_help</title>
+</chapter>
+</part>
+</book>

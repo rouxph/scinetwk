@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ *
+ * This help file was generated from save_graph.sci using help_from_sci().
+ *
+ -->
+
+<refentry version="5.0-subset Scilab" xml:id="save_graph" xml:lang="en"
+          xmlns="http://docbook.org/ns/docbook"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          xmlns:svg="http://www.w3.org/2000/svg"
+          xmlns:ns3="http://www.w3.org/1999/xhtml"
+          xmlns:mml="http://www.w3.org/1998/Math/MathML"
+          xmlns:scilab="http://www.scilab.org"
+          xmlns:db="http://docbook.org/ns/docbook">
+
+  <refnamediv>
+    <refname>save_graph</refname>
+    <refpurpose>SciNetwk</refpurpose>
+  </refnamediv>
+
+
+<refsynopsisdiv>
+   <title>Syntax</title>
+   <synopsis>
+   G=make_graph(name,n,directed,head,tail)
+   
+   </synopsis>
+</refsynopsisdiv>
+
+<refsection>
+   <title>Parameters</title>
+   <variablelist>
+        <varlistentry>
+            <term>path:</term>
+            <listitem><para> string, file name</para></listitem>
+        </varlistentry>
+        <varlistentry>
+            <term>G:</term>
+            <listitem><para> is a mlist (type is "graph") with 31 data fields</para></listitem>
+        </varlistentry>
+   </variablelist>
+</refsection>
+
+<refsection>
+   <title>Description</title>
+   <para>
+save graph structure into a text file
+use *.graph extension but its just *.sce file
+exec the file in scilab to load the graph
+   </para>
+   <para>
+</para>
+</refsection>
+
+<refsection>
+   <title>Examples</title>
+   <programlisting role="example"><![CDATA[
+tail=[3 7 2 2 1 5 2 6 7 6 4 6];
+head=[7 2 3 1 3 1 5 2 6 5 5 4];
+G = make_graph('G',1,7,tail,head);
+save_graph(G,'file_name_tosave_G.sce')
+
+
+   ]]></programlisting>
+</refsection>
+
+<refsection role="see also">
+   <title>See also</title>
+   <simplelist type="inline">
+   <member><link linkend="graph_fields">graph_fields</link></member>
+   <member><link linkend="make_graph">make_graph</link></member>
+   </simplelist>
+</refsection>
+
+<refsection>
+   <title>Authors</title>
+   <simplelist type="vert">
+   <member>Philippe Roux</member>
+   </simplelist>
+</refsection>
+</refentry>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ *
+ * This help file was generated from show_graph.sci using help_from_sci().
+ *
+ -->
+
+<refentry version="5.0-subset Scilab" xml:id="show_graph" xml:lang="en"
+          xmlns="http://docbook.org/ns/docbook"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          xmlns:svg="http://www.w3.org/2000/svg"
+          xmlns:ns3="http://www.w3.org/1999/xhtml"
+          xmlns:mml="http://www.w3.org/1998/Math/MathML"
+          xmlns:scilab="http://www.scilab.org"
+          xmlns:db="http://docbook.org/ns/docbook">
+
+  <refnamediv>
+    <refname>show_graph</refname>
+    <refpurpose>SciNetwk</refpurpose>
+  </refnamediv>
+
+
+<refsynopsisdiv>
+   <title>Syntax</title>
+   <synopsis>
+   show_graph(G)
+   
+   </synopsis>
+</refsynopsisdiv>
+
+<refsection>
+   <title>Parameters</title>
+   <variablelist>
+        <varlistentry>
+            <term>G:</term>
+            <listitem><para> is a mlist (type is "graph") with 31 data fields</para></listitem>
+        </varlistentry>
+   </variablelist>
+</refsection>
+
+<refsection>
+   <title>Description</title>
+   <para>
+plot a graph G using nodes/edges information from graph structure
+   </para>
+   <para>
+</para>
+</refsection>
+
+<refsection>
+   <title>Examples</title>
+   <programlisting role="example"><![CDATA[
+ta=[1 1 2 2 2 3 4 5 5 7 8 8 9 10 10 10 11 12 13 13 13 14 15 16 16 17 17 9];
+he=[2 10 3 5 7 4 2 4 6 8 6 9 7 7 11 15 12 13 9 10 14 11 16 1 17 14 15 9];
+g=make_graph('foo',1,17,ta,he);
+g('node_x')=[283 163 63 57 164 164 273 271 339 384 504 513 439 623 631 757 642];
+g('node_y')=[59 133 223 318 227 319 221 324 432 141 209 319 428 443 187 151 301];
+g.node_color=2+pmodulo(1:17,5)
+g.node_diam(:)=40;
+g.edge_label="$e_{"+string(1:length(ta))+"}$"
+g.edge_font_size(:)=2;
+show_graph(g)
+   ]]></programlisting>
+</refsection>
+</refentry>

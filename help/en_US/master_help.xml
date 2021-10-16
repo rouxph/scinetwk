@@ -11,10 +11,38 @@
 <!ENTITY ae20fe458c3a90e9dd06fd7a154147a5c SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/cycle_basis.xml">
 <!ENTITY af0da576d2cd314e0c6a068e3f397c8a5 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/delete_arcs.xml">
 <!ENTITY ad9f94d2af35902a7cb6c43283ee46efa SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/delete_nodes.xml">
+<!ENTITY af5477d42181446c090f436015f7a68f5 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/edge_number.xml">
+<!ENTITY a808c2dd1e7c31a19f0db938044210aaf SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/edit_graph.xml">
+<!ENTITY a3e61901a3502d5eb9d17121afb8eb78a SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/girth.xml">
+<!ENTITY a57da897e7531e13e152302d92dc45887 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/graph_2_mat.xml">
+<!ENTITY ab0e8d73d0f20ef389d613c12d028f0da SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/graph_complement.xml">
 <!ENTITY a88e85a89bc373df9e9ea330a5282ffa2 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/graph_fields.xml">
+<!ENTITY a0add77879e20332533dc405bb305427c SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/graph_power.xml">
+<!ENTITY a0303b3a00a0c519aa8f89ddb77c47b27 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/graph_simp.xml">
+<!ENTITY a7d92027149c926dc1ad1c636b7864c06 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/graph_sum.xml">
+<!ENTITY af723dea9a2244c3876d22071815ec224 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/graph_union.xml">
+<!ENTITY a67e76778d43b994c0b07a6228890edea SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/knapsack.xml">
+<!ENTITY abd01ece913557f541aca795f1b12fd7c SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/line_graph.xml">
 <!ENTITY accd70d864646e49ab553e5aff38b3d5b SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/make_graph.xml">
+<!ENTITY a45fdcbca01fade93f257d503bac4bc36 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/mat_2_graph.xml">
+<!ENTITY a51ce498568c93eaa57409ca29db01b4a SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/neighbors.xml">
+<!ENTITY af0cd8574ea9b9e9e6d608d1c1bd0762b SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/netclose.xml">
+<!ENTITY a0a1fa2384ced81b9cf9e0b6a2b0196e0 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/netwindow.xml">
+<!ENTITY a483317bafb9b4631defea8d2f2db3d99 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/netwindows.xml">
+<!ENTITY aee802ef9931d24b581e9ea22a973032c SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/node_number.xml">
+<!ENTITY ab8b3b7785037d8204dbdaa86fb5140f2 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/nodes_degrees.xml">
+<!ENTITY ad44fb99ab01ed2ea8b6be6e31025ab7f SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/pipe_network.xml">
+<!ENTITY a60b944921083e9b6eb66627026919a6b SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/plot_graph.xml">
+<!ENTITY abea87bcb4bb6f1d8af170a613bebaab5 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/predecessors.xml">
 <!ENTITY a1f8961464d1ff81a72df5e18a6913a52 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/save_graph.xml">
+<!ENTITY a5e907c9148b07953a4eb21980ae8a99b SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/show_arcs.xml">
 <!ENTITY a582dd19a3cc572cfab9c5914c23c5e22 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/show_graph.xml">
+<!ENTITY a3277c6ca5ffa0ea086d368574bd3f7c9 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/show_nodes.xml">
+<!ENTITY a0cf4e86eb887e87815cdc4b46583ef25 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/sort.xml">
+<!ENTITY a8cc1ed341a9a5df83bad347790e841b4 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/split_edge.xml">
+<!ENTITY ab803e0c6918b37489508876a9771e8b4 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/subgraph.xml">
+<!ENTITY ac4e97eb576dfc1dc12b1e0f2eacde89b SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/successors.xml">
+<!ENTITY a161a2bf22a0a113ab84d192f21ca7f4b SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/supernode.xml">
 <!--End Entities-->
 ]>
 <book version="5.0-subset Scilab" xml:lang="pdf"
@@ -41,10 +69,38 @@
 &ae20fe458c3a90e9dd06fd7a154147a5c;
 &af0da576d2cd314e0c6a068e3f397c8a5;
 &ad9f94d2af35902a7cb6c43283ee46efa;
+&af5477d42181446c090f436015f7a68f5;
+&a808c2dd1e7c31a19f0db938044210aaf;
+&a3e61901a3502d5eb9d17121afb8eb78a;
+&a57da897e7531e13e152302d92dc45887;
+&ab0e8d73d0f20ef389d613c12d028f0da;
 &a88e85a89bc373df9e9ea330a5282ffa2;
+&a0add77879e20332533dc405bb305427c;
+&a0303b3a00a0c519aa8f89ddb77c47b27;
+&a7d92027149c926dc1ad1c636b7864c06;
+&af723dea9a2244c3876d22071815ec224;
+&a67e76778d43b994c0b07a6228890edea;
+&abd01ece913557f541aca795f1b12fd7c;
 &accd70d864646e49ab553e5aff38b3d5b;
+&a45fdcbca01fade93f257d503bac4bc36;
+&a51ce498568c93eaa57409ca29db01b4a;
+&af0cd8574ea9b9e9e6d608d1c1bd0762b;
+&a0a1fa2384ced81b9cf9e0b6a2b0196e0;
+&a483317bafb9b4631defea8d2f2db3d99;
+&aee802ef9931d24b581e9ea22a973032c;
+&ab8b3b7785037d8204dbdaa86fb5140f2;
+&ad44fb99ab01ed2ea8b6be6e31025ab7f;
+&a60b944921083e9b6eb66627026919a6b;
+&abea87bcb4bb6f1d8af170a613bebaab5;
 &a1f8961464d1ff81a72df5e18a6913a52;
+&a5e907c9148b07953a4eb21980ae8a99b;
 &a582dd19a3cc572cfab9c5914c23c5e22;
+&a3277c6ca5ffa0ea086d368574bd3f7c9;
+&a0cf4e86eb887e87815cdc4b46583ef25;
+&a8cc1ed341a9a5df83bad347790e841b4;
+&ab803e0c6918b37489508876a9771e8b4;
+&ac4e97eb576dfc1dc12b1e0f2eacde89b;
+&a161a2bf22a0a113ab84d192f21ca7f4b;
 <chapter xml:id='section_1b24762cce07aa36f40c2786b8a9b78c'>
 <title>scilab_pdf_help</title>
 </chapter>

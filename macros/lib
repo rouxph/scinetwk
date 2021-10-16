@@ -10,8 +10,36 @@
   <macro name="cycle_basis" file="cycle_basis.bin" md5="6f6edfba3347819b291182d3984c8cdd"/>
   <macro name="delete_arcs" file="delete_arcs.bin" md5="5abb6cb83b002f32277ef486a0ff3d03"/>
   <macro name="delete_nodes" file="delete_nodes.bin" md5="e7634eb08c1eba50eae27982faee95e3"/>
+  <macro name="edge_number" file="edge_number.bin" md5="9e68de2cd4ae60d035cf9399b001c25a"/>
+  <macro name="edit_graph" file="edit_graph.bin" md5="84cd4f804d923d75cfeb947debe84c45"/>
+  <macro name="girth" file="girth.bin" md5="4d8abbb673b9102110d22111eaf4907c"/>
+  <macro name="graph_2_mat" file="graph_2_mat.bin" md5="017ab57bab7c6252b1f73f2fcea6194f"/>
+  <macro name="graph_complement" file="graph_complement.bin" md5="d5f8ca1717a3dbae7454db22b2878aa6"/>
   <macro name="graph_fields" file="graph_fields.bin" md5="30978eabf066f0151f84eaeb8fe9e195"/>
+  <macro name="graph_power" file="graph_power.bin" md5="f489086720f9eecd79c57f6e9a031881"/>
+  <macro name="graph_simp" file="graph_simp.bin" md5="d3c86af083beb43e7d8650752b2e98d5"/>
+  <macro name="graph_sum" file="graph_sum.bin" md5="27da94356424cca63a0c5595699ba209"/>
+  <macro name="graph_union" file="graph_union.bin" md5="07eb7039e32fe743fc5a11da46a9bf7b"/>
+  <macro name="knapsack" file="knapsack.bin" md5="cc880f5092c7eb98e6053f55c0989ff7"/>
+  <macro name="line_graph" file="line_graph.bin" md5="f51db6e3dff49998e6a7b62beacfd15e"/>
   <macro name="make_graph" file="make_graph.bin" md5="58bebbbd04078ec0cc83e9db678b4b55"/>
+  <macro name="mat_2_graph" file="mat_2_graph.bin" md5="64ab37e2ccd4920841ec618591d1cc26"/>
+  <macro name="neighbors" file="neighbors.bin" md5="226ebba87cdd4ce693fdcaf1acb47828"/>
+  <macro name="netclose" file="netclose.bin" md5="8f3f824c63da1ae8335f4e971acce336"/>
+  <macro name="netwindow" file="netwindow.bin" md5="6562b7632a68ae77ad6bef01d8623504"/>
+  <macro name="netwindows" file="netwindows.bin" md5="16adefed531a281d822a0b5f74d9c4e5"/>
+  <macro name="node_number" file="node_number.bin" md5="18cf868681a8cc0453d1c673f6f1ba16"/>
+  <macro name="nodes_degrees" file="nodes_degrees.bin" md5="2f70e16be3420a7d158ca1b06b9993f5"/>
+  <macro name="pipe_network" file="pipe_network.bin" md5="d37d916b24303193f9691f5b53a8ef26"/>
+  <macro name="plot_graph" file="plot_graph.bin" md5="3392d120e0687fa93bef022cd1a55dc5"/>
+  <macro name="predecessors" file="predecessors.bin" md5="76e50f21a760149de01e8dac00c395eb"/>
   <macro name="save_graph" file="save_graph.bin" md5="d5e2c32276fa59218c1d718554926f81"/>
+  <macro name="show_arcs" file="show_arcs.bin" md5="7de8b5513dbad5a56bd8f59f2be199d8"/>
   <macro name="show_graph" file="show_graph.bin" md5="4328796116b92312099296ede7d65640"/>
+  <macro name="show_nodes" file="show_nodes.bin" md5="3d4a2115a9f08710e1f860dc63f77672"/>
+  <macro name="sort" file="sort.bin" md5="45d88801fd7466a9969c97e92526a372"/>
+  <macro name="split_edge" file="split_edge.bin" md5="5705a0b3f32a059c7dee0c91179dbe9c"/>
+  <macro name="subgraph" file="subgraph.bin" md5="1c6513a7c149e4df3fc36dede4cbac75"/>
+  <macro name="successors" file="successors.bin" md5="6e40708f500e5919069b577da8dcdbc1"/>
+  <macro name="supernode" file="supernode.bin" md5="902dc9caae9038c28550955375c1e652"/>
 </scilablib>

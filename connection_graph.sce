@@ -3,10 +3,8 @@ n=prod(size(liste_fonctions));
 M=spzeros(n,n);
 for n1=1:n
     fun1=liste_fonctions(n1);
-    disp(fun1)
     fun1=part(fun1,1:strindex(fun1,'.sci')-1);
     liste_fonctions(n1)=fun1;
-    disp(fun1)
     execstr('tmp=macrovar('+fun1+')');
     liste_appels=tmp(4)';
     for fun2=liste_appels

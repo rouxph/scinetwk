@@ -1,11 +1,14 @@
 changelog of the scinetwk
 
 
+scinetwk 0.2
+	* check code and include documentation 
+		* add_edge, add_node, arc_graph, arc_number, contract_edge	
+ -- Philippe ROUX <philipe.roux@univ-rennes1.fr>  07/03/2026
+ 
 scinetwk  0.1
-    * import metanet macros from scicoslab
-    	* edge_number, edit_graph, edit_graph_menus, girth, glist, graph, graph_2_mat, graph_complement, graph_power, graph_simp, graph_sum, graph_union, knapsack, line_graph, mat_2_graph, neighbors, netclose, netwindow, netwindows, node_number, nodes_degrees, pipe_network, plot_graph, predecessors, show_arcs, show_nodes, split_edge, subgraph, successors, supernode
-    * import help pages from scicoslab
-
+    * import metanet macros from scilab4
+    	*  %graph_p.sci, add_edge.sci, add_node.sci, arc_graph.sci, arc_number.sci, check_graph.sci, contract_edge.sci, cycle_basis.sci, delete_arcs.sci, delete_nodes.sci, edge_number.sci, edit_graph.sci, girth.sci, graph_2_mat.sci, graph_complement.sci, graph_fields.sci, graph_power.sci, graph_simp.sci, graph_sum.sci, graph_union.sci, knapsack.sci, line_graph.sci, make_graph.sci, mat_2_graph.sci, neighbors.sci, netclose.sci, netwindow.sci, netwindows.sci, node_number.sci, nodes_degrees.sci, pipe_network.sci, plot_graph.sci, predecessors.sci, save_graph.sci, show_arcs.sci, show_graph.sci, show_nodes.sci, sort.sci, split_edge.sci, subgraph.sci, successors.sci, supernode.sci
  -- Philippe ROUX <philipe.roux@univ-rennes1.fr>  20/10/2021 
  
  

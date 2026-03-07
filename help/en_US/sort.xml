@@ -17,7 +17,42 @@
 
   <refnamediv>
     <refname>sort</refname>
-    <refpurpose>L2=gsort(L1,'g','d')</refpurpose>
+    <refpurpose>SciNetwk</refpurpose>
   </refnamediv>
 
+
+<refsynopsisdiv>
+   <title>Syntax</title>
+   <synopsis>
+   sort(L)
+   
+   </synopsis>
+</refsynopsisdiv>
+
+<refsection>
+   <title>Parameters</title>
+   <variablelist>
+        <varlistentry>
+            <term>L:</term>
+            <listitem><para> list/vector</para></listitem>
+        </varlistentry>
+   </variablelist>
+</refsection>
+
+<refsection>
+   <title>Description</title>
+   <para>
+sort the list L in decreasing order using gsort
+   </para>
+   <para>
+</para>
+</refsection>
+
+<refsection>
+   <title>Examples</title>
+   <programlisting role="example"><![CDATA[
+L=grand(1,10,'uin',1,100)
+sort(L)
+   ]]></programlisting>
+</refsection>
 </refentry>

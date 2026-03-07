@@ -17,7 +17,80 @@
 
   <refnamediv>
     <refname>arc_graph</refname>
-    <refpurpose>Copyright INRIA</refpurpose>
+    <refpurpose>SciNetwk</refpurpose>
   </refnamediv>
 
+
+<refsynopsisdiv>
+   <title>Syntax</title>
+   <synopsis>
+   g1 = arc_graph(g)
+   
+   </synopsis>
+</refsynopsisdiv>
+
+<refsection>
+   <title>Parameters</title>
+   <variablelist>
+        <varlistentry>
+            <term>g:</term>
+            <listitem><para> graph list of the old graph</para></listitem>
+        </varlistentry>
+        <varlistentry>
+            <term>g1:</term>
+            <listitem><para> graph list of the new graph</para></listitem>
+        </varlistentry>
+   </variablelist>
+</refsection>
+
+<refsection>
+   <title>Description</title>
+   <para>
+arc_graph returns the directed graph g1 with the nodes corresponding to the arcs of the directed graph g. g1 is defined in the following way:
+   </para>
+   <para>
+- its nodes correspond to the arcs of g
+   </para>
+   <para>
+- 2 nodes of the new graph are adjacent if and only if the corresponding arcs of the graph g are consecutive.
+   </para>
+   <para>
+The coordinates of the nodes of g1 are given by the middle points of the corresponding edges of g.
+   </para>
+   <para>
+If such an arc graph does not exist, an empty vector is returned.
+   </para>
+   <para>
+</para>
+</refsection>
+
+<refsection>
+   <title>Examples</title>
+   <programlisting role="example"><![CDATA[
+ta=[1 1 2 4 4 5 6 7 2 3 5 1];
+he=[2 6 3 6 7 8 8 8 4 7 3 5];
+g=make_graph('foo',1,8,ta,he);
+g('node_x')=[281  284  360  185  405  182  118  45];
+g('node_y')=[262  179  130  154  368  248  64  309];
+show_graph(g);
+g1=arc_graph(g);
+show_graph(g1,'new');
+
+   ]]></programlisting>
+</refsection>
+
+<refsection role="see also">
+   <title>See also</title>
+   <simplelist type="inline">
+   <member><link linkend="line_graph">line_graph</link></member>
+   </simplelist>
+</refsection>
+
+<refsection>
+   <title>Authors</title>
+   <simplelist type="vert">
+   <member>scilab4/metanet/INRIA https://cecill.info/</member>
+   <member>Philippe ROUX</member>
+   </simplelist>
+</refsection>
 </refentry>

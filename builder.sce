@@ -1,5 +1,5 @@
 printf('***************************************\n')
-printf('** compilation of scinetwk toolbox     **\n')
+printf('** compilation of scinetwk toolbox     \n')
 printf('***************************************\n')
 try
  getversion("scilab");
@@ -10,22 +10,23 @@ toolbox_title="scinetwk";
 path=get_absolute_file_path("builder.sce")
 //  compile macros
 printf('***************************************\n')
-printf('** compilation of macros/*.sci files **\n')
+printf('** compilation of macros/*.sci files   \n')
 printf('***************************************\n')
 cd(path+"macros")
 exec("cleanmacros.sce")
 exec("buildmacros.sce")
 // generate  help  
+printf("\n")
 printf('***************************************\n')
-printf('** generating help files (xml/pdf)   **\n')
+printf('** generating help files (xml/pdf)     \n')
 printf('***************************************\n')
 cd("../help")
 exec("builder_help.sce")
 cd("../")
-xmltopdf('help/en_US',toolbox_title,'pdf');
+//xmltopdf('help/en_US',toolbox_title,'pdf');
 //load
 printf('\n***************************************\n')
-printf('** loading  toolbox scinetwk           **\n')
+printf('** loading  toolbox scinetwk             \n')
 printf('***************************************\n')
 exec('etc/scinetwk.quit',-1)
 exec('loader.sce',-1)
@@ -36,16 +37,17 @@ printf('***************************************\n')
 status=%t//status=test_run('.',[],'create_ref')
 if status then
 printf('*****************************************\n')
-printf('** successful compilation of scinetwk !**\n')
-printf('** next time execute file loader.sce ****\n')
+printf('** successful compilation of scinetwk ! \n')
+printf('** next time execute file loader.sce     \n')
 printf('*****************************************\n')
 printf('*****************************************\n')
-printf('** read online help '"help scinetwk'" ***\n')
+printf('** read online help '"help scinetwk'"    \n')
 printf('*****************************************\n')
-help scinetwk
+tbx_build_help_loader(toolbox_title)
+doc scinetwk
 else
 printf('***************************************\n')
-printf('**/!\\ errors detected! check tests/!\\**\n')
-printf('** next time execute file loader.sce **\n')
+printf('**/!\\ errors detected! check tests/!\\\n')
+printf('** next time execute file loader.sce   \n')
 printf('***************************************\n')
 end

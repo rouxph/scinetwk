@@ -32,7 +32,9 @@ function show_graph(G)
     
     n=G.node_number
     m=length(G.tail)
-    clf()    
+    clf() 
+    nb_color=max(6,length(unique(G.node_color)),length(unique(G.edge_color)))  
+    gcf().color_map=[0 0 0;1 1 1;rainbow(nb_color-1)] 
     drawlater
     //draw edges
     theta=[0:%pi/40:2*%pi]
@@ -64,7 +66,7 @@ function show_graph(G)
         end
         //arrows if directed
         if G.directed then
-            xarrows([x_mid(k),x_mid(k)+dx(k)],[y_mid(k),y_mid(k)+dy(k)],G.default_node_diam*10)
+            xarrows([x_mid(k),x_mid(k)+dx(k)],[y_mid(k),y_mid(k)+dy(k)],200); // ou  G.default_node_diam*10)
             gce().thickness=G.edge_width(k)
             xstring(x_mid(k),y_mid(k),G.edge_label(k))
             gce().font_size=G.edge_font_size(k)
@@ -77,7 +79,9 @@ function show_graph(G)
         gce().background = G.node_color(k)
         xarc(G.node_x(k)-G.node_diam(k)/2,G.node_y(k)+G.node_diam(k)/2,G.node_diam(k),G.node_diam(k),0,360*64)
         gce().background = 1// black color
-        xstring(G.node_x(k)-G.node_diam(k)/4,G.node_y(k)-G.node_diam(k)/3,G.node_label(k))
+        gce().thickness=G.node_border(k)
+        rect=xstringl(0,0,G.node_label(k), G.node_font_size(k))
+        xstring(G.node_x(k)-rect(3)/2,G.node_y(k)-rect(4)/2,G.node_label(k))
         gce().font_size=G.node_font_size(k)
     end
     //resize window
@@ -85,12 +89,13 @@ function show_graph(G)
     mx=min(G.node_x)
     My=max(G.node_y)
     my=min(G.node_y)
-    dx=(Mx-mx)/20
-    dy=(My-my)/20
+    dx=2*max(G.node_diam)
+    dy=dx
     rect=[mx-dx,my-dy;Mx+dx,My+dy]
     gca().data_bounds=rect
     //final
     gca().box="off"
     gca().axes_visible(:)="off"
+    gca().isoview="on"
     drawnow
 endfunction

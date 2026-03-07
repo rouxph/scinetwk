@@ -53,7 +53,7 @@ function G=make_graph(name,directed,n,head,tail)
       node_type=zeros(1:n)//default type shrink =1 source=2 other 0
       node_x=zeros(1:n)//x coordinate
       node_y=zeros(1:n)//y coordinnate
-      node_color=8*ones(1:n)// default color=white
+      node_color=2*ones(1:n)// default color=white
       node_diam=default_node_diam*ones(1:n)// diameter for node plot
       node_border=default_node_border*ones(1:n)// border of the node circle
       node_font_size=default_font_size*ones(1:n)// font size for node name
@@ -72,7 +72,7 @@ function G=make_graph(name,directed,n,head,tail)
       edge_length=ones(1,m)
       edge_cost=zeros(1,m)
       edge_min_cap=zeros(1,m)
-      edge_max_cap=3*ones(1,m)
+      edge_max_cap=ones(1,m)
       edge_q_weight=zeros(1:m)
       edge_q_orig=zeros(1:m)
       edge_weight=zeros(1:m)

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE book [
 <!--Begin Entities-->
-<!ENTITY a61341556735a8a08b966fba6c1a73e0e SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/percentgraph_p.xml">
 <!ENTITY a1c10ac4754b898e6da37646fd47e5c68 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/add_edge.xml">
 <!ENTITY a2bc2505d16c6fb86a73db844c0ce4692 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/add_node.xml">
 <!ENTITY a4f669b024095b77f347df9f8823df4e4 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/arc_graph.xml">
@@ -31,6 +30,7 @@
 <!ENTITY a483317bafb9b4631defea8d2f2db3d99 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/netwindows.xml">
 <!ENTITY aee802ef9931d24b581e9ea22a973032c SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/node_number.xml">
 <!ENTITY ab8b3b7785037d8204dbdaa86fb5140f2 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/nodes_degrees.xml">
+<!ENTITY a61341556735a8a08b966fba6c1a73e0e SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/percentgraph_p.xml">
 <!ENTITY ad44fb99ab01ed2ea8b6be6e31025ab7f SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/pipe_network.xml">
 <!ENTITY a60b944921083e9b6eb66627026919a6b SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/plot_graph.xml">
 <!ENTITY abea87bcb4bb6f1d8af170a613bebaab5 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/predecessors.xml">
@@ -45,7 +45,7 @@
 <!ENTITY a161a2bf22a0a113ab84d192f21ca7f4b SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/supernode.xml">
 <!--End Entities-->
 ]>
-<book version="5.0-subset Scilab" xml:lang="pdf"
+<book version="5.0-subset Scilab" xml:lang="en_US"
       xmlns="http://docbook.org/ns/docbook"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xi="http://www.w3.org/2001/XInclude"
@@ -59,7 +59,6 @@
 
 <part xml:id='section_1f55602daa6b69723be33a233cae2d30'>
 <title>scinetwk</title>
-&a61341556735a8a08b966fba6c1a73e0e;
 &a1c10ac4754b898e6da37646fd47e5c68;
 &a2bc2505d16c6fb86a73db844c0ce4692;
 &a4f669b024095b77f347df9f8823df4e4;
@@ -89,6 +88,7 @@
 &a483317bafb9b4631defea8d2f2db3d99;
 &aee802ef9931d24b581e9ea22a973032c;
 &ab8b3b7785037d8204dbdaa86fb5140f2;
+&a61341556735a8a08b966fba6c1a73e0e;
 &ad44fb99ab01ed2ea8b6be6e31025ab7f;
 &a60b944921083e9b6eb66627026919a6b;
 &abea87bcb4bb6f1d8af170a613bebaab5;

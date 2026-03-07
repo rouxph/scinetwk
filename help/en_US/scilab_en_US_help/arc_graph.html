@@ -33,12 +33,47 @@
 
     <br /><br />
     <div class="refnamediv"><h1 class="refname">arc_graph</h1>
-    <p class="refpurpose">Copyright INRIA</p></div>
+    <p class="refpurpose">SciNetwk</p></div>
+
+
+<div class="refsynopsisdiv"><h3 class="title" id="#L25">Syntax</h3>
+   <div class="synopsis"><pre><span class="default">g1</span><span class="default"> = </span><span class="functionid">arc_graph</span><span class="default">(</span><span class="default">g</span><span class="default">)</span></pre></div></div>
+
+<div class="refsection"><h3 class="title" id="#L33">Parameters</h3>
+   <dl><dt><span class="term">g:</span>
+            <dd><p class="para">graph list of the old graph</p></dd></dt>
+        <dt><span class="term">g1:</span>
+            <dd><p class="para">graph list of the new graph</p></dd></dt></dl></div>
+
+<div class="refsection"><h3 class="title" id="#L47">Description</h3>
+   <p class="para">arc_graph returns the directed graph g1 with the nodes corresponding to the arcs of the directed graph g. g1 is defined in the following way:</p>
+   <p class="para">- its nodes correspond to the arcs of g</p>
+   <p class="para">- 2 nodes of the new graph are adjacent if and only if the corresponding arcs of the graph g are consecutive.</p>
+   <p class="para">The coordinates of the nodes of g1 are given by the middle points of the corresponding edges of g.</p>
+   <p class="para">If such an arc graph does not exist, an empty vector is returned.</p>
+   <p class="para"></p></div>
+
+<div class="refsection"><h3 class="title" id="#L68">Examples</h3>
+   <div class="programlisting" id="#L79"><table border="0" width="100%"><tr><td width="98%"><pre class="scilabcode"><span class="scilabid">ta</span><span class="scilaboperator">=</span><span class="scilabopenclose">[</span><span class="scilabnumber">1</span> <span class="scilabnumber">1</span> <span class="scilabnumber">2</span> <span class="scilabnumber">4</span> <span class="scilabnumber">4</span> <span class="scilabnumber">5</span> <span class="scilabnumber">6</span> <span class="scilabnumber">7</span> <span class="scilabnumber">2</span> <span class="scilabnumber">3</span> <span class="scilabnumber">5</span> <span class="scilabnumber">1</span><span class="scilabopenclose">]</span><span class="scilabdefault">;</span>
+<span class="scilabid">he</span><span class="scilaboperator">=</span><span class="scilabopenclose">[</span><span class="scilabnumber">2</span> <span class="scilabnumber">6</span> <span class="scilabnumber">3</span> <span class="scilabnumber">6</span> <span class="scilabnumber">7</span> <span class="scilabnumber">8</span> <span class="scilabnumber">8</span> <span class="scilabnumber">8</span> <span class="scilabnumber">4</span> <span class="scilabnumber">7</span> <span class="scilabnumber">3</span> <span class="scilabnumber">5</span><span class="scilabopenclose">]</span><span class="scilabdefault">;</span>
+<span class="scilabid">g</span><span class="scilaboperator">=</span><span class="scilabid">make_graph</span><span class="scilabopenclose">(</span><span class="scilabstring">&#0039;</span><span class="scilabstring">foo</span><span class="scilabstring">&#0039;</span><span class="scilabdefault">,</span><span class="scilabnumber">1</span><span class="scilabdefault">,</span><span class="scilabnumber">8</span><span class="scilabdefault">,</span><span class="scilabid">ta</span><span class="scilabdefault">,</span><span class="scilabid">he</span><span class="scilabopenclose">)</span><span class="scilabdefault">;</span>
+<span class="scilabid">g</span><span class="scilabopenclose">(</span><span class="scilabstring">&#0039;</span><span class="scilabstring">node_x</span><span class="scilabstring">&#0039;</span><span class="scilabopenclose">)</span><span class="scilaboperator">=</span><span class="scilabopenclose">[</span><span class="scilabnumber">281</span>  <span class="scilabnumber">284</span>  <span class="scilabnumber">360</span>  <span class="scilabnumber">185</span>  <span class="scilabnumber">405</span>  <span class="scilabnumber">182</span>  <span class="scilabnumber">118</span>  <span class="scilabnumber">45</span><span class="scilabopenclose">]</span><span class="scilabdefault">;</span>
+<span class="scilabid">g</span><span class="scilabopenclose">(</span><span class="scilabstring">&#0039;</span><span class="scilabstring">node_y</span><span class="scilabstring">&#0039;</span><span class="scilabopenclose">)</span><span class="scilaboperator">=</span><span class="scilabopenclose">[</span><span class="scilabnumber">262</span>  <span class="scilabnumber">179</span>  <span class="scilabnumber">130</span>  <span class="scilabnumber">154</span>  <span class="scilabnumber">368</span>  <span class="scilabnumber">248</span>  <span class="scilabnumber">64</span>  <span class="scilabnumber">309</span><span class="scilabopenclose">]</span><span class="scilabdefault">;</span>
+<span class="scilabid">show_graph</span><span class="scilabopenclose">(</span><span class="scilabid">g</span><span class="scilabopenclose">)</span><span class="scilabdefault">;</span>
+<span class="scilabid">g1</span><span class="scilaboperator">=</span><span class="scilabid">arc_graph</span><span class="scilabopenclose">(</span><span class="scilabid">g</span><span class="scilabopenclose">)</span><span class="scilabdefault">;</span>
+<span class="scilabid">show_graph</span><span class="scilabopenclose">(</span><span class="scilabid">g1</span><span class="scilabdefault">,</span><span class="scilabstring">&#0039;</span><span class="scilabstring">new</span><span class="scilabstring">&#0039;</span><span class="scilabopenclose">)</span><span class="scilabdefault">;</span></pre></td><td valign="top"><a href="scilab://scilab.execexample/"><img src="ScilabExecute.png" border="0"/></a></td><td valign="top"><a href="scilab://scilab.editexample/"><img src="ScilabEdit.png" border="0"/></a></td><td></td></tr></table></div></div>
+
+<div class="refsection"><h3 class="title" id="#L83">See also</h3>
+   <ul class="itemizedlist"><li class="member"><a href="line_graph.html" class="link">line_graph</a> &#8212; Copyright INRIA</li></ul></div>
+
+<div class="refsection"><h3 class="title" id="#L90">Authors</h3>
+   <ul class="itemizedlist"><li class="member">scilab4/metanet/INRIA https://cecill.info/</li>
+   <li class="member">Philippe ROUX</li></ul></div>
     <br />
 
     <div class="manualnavbar">
     <table width="100%">
-    <tr><td colspan="3" class="next"><a href="http://bugzilla.scilab.org/enter_bug.cgi?product=Scilab%20software&component=Documentation%20pages" class="ulink">Report an issue</a></td></tr>
+    <tr><td colspan="3" class="next"><a href="https://gitlab.com/scilab/scilab/-/issues/new" class="ulink">Report an issue</a></td></tr>
 <tr>
       <td width="30%">
     	<span class="previous"><a href="add_node.html">&lt;&lt; add_node</a></span>

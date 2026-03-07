@@ -1,6 +1,6 @@
 function check_graph(G)
     //  SciNetwk 
-    // 
+    //  check_graph - checks a Scilab graph list 
     // Syntax
     // check_graph(G)
     //
@@ -47,8 +47,9 @@ function check_graph(G)
                 disp(field)
                 whereami()
                 error("G.%s is not a scalar list ! type : %s\n",typeof(G(field)))
-            elseif grep(field,["node_x","node_y"])<>[] then 
+            elseif grep(field,["node_x","node_y"])==[] then 
                 //should be positive integers (except (x,y) coordinnates)
+                
                 L=G(field)
                 if or(pmodulo(L,1)<>0)|or(L<0) then 
                     whereami()

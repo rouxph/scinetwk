@@ -1,6 +1,14 @@
 changelog of the scinetwk
 
 
+scinetwk  0.1
+    * import metanet macros from scicoslab
+    	* edge_number, edit_graph, edit_graph_menus, girth, glist, graph, graph_2_mat, graph_complement, graph_power, graph_simp, graph_sum, graph_union, knapsack, line_graph, mat_2_graph, neighbors, netclose, netwindow, netwindows, node_number, nodes_degrees, pipe_network, plot_graph, predecessors, show_arcs, show_nodes, split_edge, subgraph, successors, supernode
+    * import help pages from scicoslab
+
+ -- Philippe ROUX <philipe.roux@univ-rennes1.fr>  20/10/2021 
+ 
+ 
 scinetwk  0.0
     * toolbox creation
     * make_graph, check_graph, graph_fields, save_graph,show_graph

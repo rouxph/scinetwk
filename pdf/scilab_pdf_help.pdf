@@ -1,6 +1,6 @@
 %!PS-Adobe-3.0
-%%Creator: (Apache FOP Version SVN branches/fop-2_0)
-%%CreationDate: 2021-10-16T23:04:20
+%%Creator: (Apache FOP Version SVN)
+%%CreationDate: 2026-03-06T16:14:24
 %%LanguageLevel: 3
 %%Pages: (atend)
 %%BoundingBox: (atend)
@@ -410,12 +410,6 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
-[0 -1 1 0 523.275 777.089] CT
-GR
-GS
-[1 0 0 1 72 777.089] CT
-GR
-GS
 [1 0 0 1 72 72] CT
 GS
 BT
@@ -424,6 +418,12 @@ BT
 (scinetwk) t
 ET
 GR
+GR
+GS
+[0 -1 1 0 523.275 777.089] CT
+GR
+GS
+[1 0 0 1 72 777.089] CT
 GR
 showpage
 %%PageTrailer
@@ -498,6 +498,16 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 14.4 F
+1 0 0 -1 0 12.319 Tm
+(scinetwk) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -549,16 +559,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 14.4 F
-1 0 0 -1 0 12.319 Tm
-(scinetwk) t
-ET
 GR
 GR
 showpage
@@ -632,67 +632,6 @@ GR
 GR
 GS
 [0 -1 1 0 72 777.089] CT
-GR
-GS
-[0 -1 1 0 523.275 777.089] CT
-GR
-GS
-[1 0 0 1 72 777.089] CT
-GS
-[1 0 0 1 0 14.3] CT
-GS
-0 0.25  translate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GR
-GS
-[1 0 0 1 150.425 14.3] CT
-GS
-0 0.25  translate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GS
-BT
-/Times-Roman 10 F
-1 0 0 -1 71.042 10.83 Tm
-(iii) t
-ET
-GR
-GR
-GS
-[1 0 0 1 300.85 14.3] CT
-GS
-0 0.25  translate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GR
 GR
 GS
 [1 0 0 1 72 72] CT
@@ -1849,7 +1788,7 @@ BT
 1 0 0 -1 444.928 85.706 Tm
 [( ) -1154 ] TJ
 1 0 0 -1 448.582 85.706 Tm
-(6) t
+(7) t
 1 0 0 -1 72 97.706 Tm
 (arc_number) t
 1 0 0 -1 119.76 97.706 Tm
@@ -2071,7 +2010,7 @@ BT
 1 0 0 -1 444.9 97.706 Tm
 [( ) -1126 ] TJ
 1 0 0 -1 448.526 97.706 Tm
-(7) t
+(8) t
 1 0 0 -1 72 109.706 Tm
 (check_graph) t
 1 0 0 -1 123.09 109.706 Tm
@@ -2291,223 +2230,219 @@ BT
 1 0 0 -1 444.889 109.706 Tm
 [( ) -1114 ] TJ
 1 0 0 -1 448.503 109.706 Tm
-(8) t
+(9) t
 1 0 0 -1 72 121.706 Tm
 (contract_edge) t
 1 0 0 -1 128.09 121.706 Tm
-[( ) -1095 ] TJ
-1 0 0 -1 131.685 121.706 Tm
+[( ) -1077 ] TJ
+1 0 0 -1 131.667 121.706 Tm
 (.) t
-1 0 0 -1 134.685 121.706 Tm
+1 0 0 -1 134.667 121.706 Tm
 (.) t
-1 0 0 -1 137.685 121.706 Tm
+1 0 0 -1 137.667 121.706 Tm
 (.) t
-1 0 0 -1 140.685 121.706 Tm
+1 0 0 -1 140.667 121.706 Tm
 (.) t
-1 0 0 -1 143.685 121.706 Tm
+1 0 0 -1 143.667 121.706 Tm
 (.) t
-1 0 0 -1 146.685 121.706 Tm
+1 0 0 -1 146.667 121.706 Tm
 (.) t
-1 0 0 -1 149.685 121.706 Tm
+1 0 0 -1 149.667 121.706 Tm
 (.) t
-1 0 0 -1 152.685 121.706 Tm
+1 0 0 -1 152.667 121.706 Tm
 (.) t
-1 0 0 -1 155.685 121.706 Tm
+1 0 0 -1 155.667 121.706 Tm
 (.) t
-1 0 0 -1 158.685 121.706 Tm
+1 0 0 -1 158.667 121.706 Tm
 (.) t
-1 0 0 -1 161.685 121.706 Tm
+1 0 0 -1 161.667 121.706 Tm
 (.) t
-1 0 0 -1 164.685 121.706 Tm
+1 0 0 -1 164.667 121.706 Tm
 (.) t
-1 0 0 -1 167.685 121.706 Tm
+1 0 0 -1 167.667 121.706 Tm
 (.) t
-1 0 0 -1 170.685 121.706 Tm
+1 0 0 -1 170.667 121.706 Tm
 (.) t
-1 0 0 -1 173.685 121.706 Tm
+1 0 0 -1 173.667 121.706 Tm
 (.) t
-1 0 0 -1 176.685 121.706 Tm
+1 0 0 -1 176.667 121.706 Tm
 (.) t
-1 0 0 -1 179.685 121.706 Tm
+1 0 0 -1 179.667 121.706 Tm
 (.) t
-1 0 0 -1 182.685 121.706 Tm
+1 0 0 -1 182.667 121.706 Tm
 (.) t
-1 0 0 -1 185.685 121.706 Tm
+1 0 0 -1 185.667 121.706 Tm
 (.) t
-1 0 0 -1 188.685 121.706 Tm
+1 0 0 -1 188.667 121.706 Tm
 (.) t
-1 0 0 -1 191.685 121.706 Tm
+1 0 0 -1 191.667 121.706 Tm
 (.) t
-1 0 0 -1 194.685 121.706 Tm
+1 0 0 -1 194.667 121.706 Tm
 (.) t
-1 0 0 -1 197.685 121.706 Tm
+1 0 0 -1 197.667 121.706 Tm
 (.) t
-1 0 0 -1 200.685 121.706 Tm
+1 0 0 -1 200.667 121.706 Tm
 (.) t
-1 0 0 -1 203.685 121.706 Tm
+1 0 0 -1 203.667 121.706 Tm
 (.) t
-1 0 0 -1 206.685 121.706 Tm
+1 0 0 -1 206.667 121.706 Tm
 (.) t
-1 0 0 -1 209.685 121.706 Tm
+1 0 0 -1 209.667 121.706 Tm
 (.) t
-1 0 0 -1 212.685 121.706 Tm
+1 0 0 -1 212.667 121.706 Tm
 (.) t
-1 0 0 -1 215.685 121.706 Tm
+1 0 0 -1 215.667 121.706 Tm
 (.) t
-1 0 0 -1 218.685 121.706 Tm
+1 0 0 -1 218.667 121.706 Tm
 (.) t
-1 0 0 -1 221.685 121.706 Tm
+1 0 0 -1 221.667 121.706 Tm
 (.) t
-1 0 0 -1 224.685 121.706 Tm
+1 0 0 -1 224.667 121.706 Tm
 (.) t
-1 0 0 -1 227.685 121.706 Tm
+1 0 0 -1 227.667 121.706 Tm
 (.) t
-1 0 0 -1 230.685 121.706 Tm
+1 0 0 -1 230.667 121.706 Tm
 (.) t
-1 0 0 -1 233.685 121.706 Tm
+1 0 0 -1 233.667 121.706 Tm
 (.) t
-1 0 0 -1 236.685 121.706 Tm
+1 0 0 -1 236.667 121.706 Tm
 (.) t
-1 0 0 -1 239.685 121.706 Tm
+1 0 0 -1 239.667 121.706 Tm
 (.) t
-1 0 0 -1 242.685 121.706 Tm
+1 0 0 -1 242.667 121.706 Tm
 (.) t
-1 0 0 -1 245.685 121.706 Tm
+1 0 0 -1 245.667 121.706 Tm
 (.) t
-1 0 0 -1 248.685 121.706 Tm
+1 0 0 -1 248.667 121.706 Tm
 (.) t
-1 0 0 -1 251.685 121.706 Tm
+1 0 0 -1 251.667 121.706 Tm
 (.) t
-1 0 0 -1 254.685 121.706 Tm
+1 0 0 -1 254.667 121.706 Tm
 (.) t
-1 0 0 -1 257.685 121.706 Tm
+1 0 0 -1 257.667 121.706 Tm
 (.) t
-1 0 0 -1 260.685 121.706 Tm
+1 0 0 -1 260.667 121.706 Tm
 (.) t
-1 0 0 -1 263.685 121.706 Tm
+1 0 0 -1 263.667 121.706 Tm
 (.) t
-1 0 0 -1 266.685 121.706 Tm
+1 0 0 -1 266.667 121.706 Tm
 (.) t
-1 0 0 -1 269.685 121.706 Tm
+1 0 0 -1 269.667 121.706 Tm
 (.) t
-1 0 0 -1 272.685 121.706 Tm
+1 0 0 -1 272.667 121.706 Tm
 (.) t
-1 0 0 -1 275.685 121.706 Tm
+1 0 0 -1 275.667 121.706 Tm
 (.) t
-1 0 0 -1 278.685 121.706 Tm
+1 0 0 -1 278.667 121.706 Tm
 (.) t
-1 0 0 -1 281.685 121.706 Tm
+1 0 0 -1 281.667 121.706 Tm
 (.) t
-1 0 0 -1 284.685 121.706 Tm
+1 0 0 -1 284.667 121.706 Tm
 (.) t
-1 0 0 -1 287.685 121.706 Tm
+1 0 0 -1 287.667 121.706 Tm
 (.) t
-1 0 0 -1 290.685 121.706 Tm
+1 0 0 -1 290.667 121.706 Tm
 (.) t
-1 0 0 -1 293.685 121.706 Tm
+1 0 0 -1 293.667 121.706 Tm
 (.) t
-1 0 0 -1 296.685 121.706 Tm
+1 0 0 -1 296.667 121.706 Tm
 (.) t
-1 0 0 -1 299.685 121.706 Tm
+1 0 0 -1 299.667 121.706 Tm
 (.) t
-1 0 0 -1 302.685 121.706 Tm
+1 0 0 -1 302.667 121.706 Tm
 (.) t
-1 0 0 -1 305.685 121.706 Tm
+1 0 0 -1 305.667 121.706 Tm
 (.) t
-1 0 0 -1 308.685 121.706 Tm
+1 0 0 -1 308.667 121.706 Tm
 (.) t
-1 0 0 -1 311.685 121.706 Tm
+1 0 0 -1 311.667 121.706 Tm
 (.) t
-1 0 0 -1 314.685 121.706 Tm
+1 0 0 -1 314.667 121.706 Tm
 (.) t
-1 0 0 -1 317.685 121.706 Tm
+1 0 0 -1 317.667 121.706 Tm
 (.) t
-1 0 0 -1 320.685 121.706 Tm
+1 0 0 -1 320.667 121.706 Tm
 (.) t
-1 0 0 -1 323.685 121.706 Tm
+1 0 0 -1 323.667 121.706 Tm
 (.) t
-1 0 0 -1 326.685 121.706 Tm
+1 0 0 -1 326.667 121.706 Tm
 (.) t
-1 0 0 -1 329.685 121.706 Tm
+1 0 0 -1 329.667 121.706 Tm
 (.) t
-1 0 0 -1 332.685 121.706 Tm
+1 0 0 -1 332.667 121.706 Tm
 (.) t
-1 0 0 -1 335.685 121.706 Tm
+1 0 0 -1 335.667 121.706 Tm
 (.) t
-1 0 0 -1 338.685 121.706 Tm
+1 0 0 -1 338.667 121.706 Tm
 (.) t
-1 0 0 -1 341.685 121.706 Tm
+1 0 0 -1 341.667 121.706 Tm
 (.) t
-1 0 0 -1 344.685 121.706 Tm
+1 0 0 -1 344.667 121.706 Tm
 (.) t
-1 0 0 -1 347.685 121.706 Tm
+1 0 0 -1 347.667 121.706 Tm
 (.) t
-1 0 0 -1 350.685 121.706 Tm
+1 0 0 -1 350.667 121.706 Tm
 (.) t
-1 0 0 -1 353.685 121.706 Tm
+1 0 0 -1 353.667 121.706 Tm
 (.) t
-1 0 0 -1 356.685 121.706 Tm
+1 0 0 -1 356.667 121.706 Tm
 (.) t
-1 0 0 -1 359.685 121.706 Tm
+1 0 0 -1 359.667 121.706 Tm
 (.) t
-1 0 0 -1 362.685 121.706 Tm
+1 0 0 -1 362.667 121.706 Tm
 (.) t
-1 0 0 -1 365.685 121.706 Tm
+1 0 0 -1 365.667 121.706 Tm
 (.) t
-1 0 0 -1 368.685 121.706 Tm
+1 0 0 -1 368.667 121.706 Tm
 (.) t
-1 0 0 -1 371.685 121.706 Tm
+1 0 0 -1 371.667 121.706 Tm
 (.) t
-1 0 0 -1 374.685 121.706 Tm
+1 0 0 -1 374.667 121.706 Tm
 (.) t
-1 0 0 -1 377.685 121.706 Tm
+1 0 0 -1 377.667 121.706 Tm
 (.) t
-1 0 0 -1 380.685 121.706 Tm
+1 0 0 -1 380.667 121.706 Tm
 (.) t
-1 0 0 -1 383.685 121.706 Tm
+1 0 0 -1 383.667 121.706 Tm
 (.) t
-1 0 0 -1 386.685 121.706 Tm
+1 0 0 -1 386.667 121.706 Tm
 (.) t
-1 0 0 -1 389.685 121.706 Tm
+1 0 0 -1 389.667 121.706 Tm
 (.) t
-1 0 0 -1 392.685 121.706 Tm
+1 0 0 -1 392.667 121.706 Tm
 (.) t
-1 0 0 -1 395.685 121.706 Tm
+1 0 0 -1 395.667 121.706 Tm
 (.) t
-1 0 0 -1 398.685 121.706 Tm
+1 0 0 -1 398.667 121.706 Tm
 (.) t
-1 0 0 -1 401.685 121.706 Tm
+1 0 0 -1 401.667 121.706 Tm
 (.) t
-1 0 0 -1 404.685 121.706 Tm
+1 0 0 -1 404.667 121.706 Tm
 (.) t
-1 0 0 -1 407.685 121.706 Tm
+1 0 0 -1 407.667 121.706 Tm
 (.) t
-1 0 0 -1 410.685 121.706 Tm
+1 0 0 -1 410.667 121.706 Tm
 (.) t
-1 0 0 -1 413.685 121.706 Tm
+1 0 0 -1 413.667 121.706 Tm
 (.) t
-1 0 0 -1 416.685 121.706 Tm
+1 0 0 -1 416.667 121.706 Tm
 (.) t
-1 0 0 -1 419.685 121.706 Tm
+1 0 0 -1 419.667 121.706 Tm
 (.) t
-1 0 0 -1 422.685 121.706 Tm
+1 0 0 -1 422.667 121.706 Tm
 (.) t
-1 0 0 -1 425.685 121.706 Tm
+1 0 0 -1 425.667 121.706 Tm
 (.) t
-1 0 0 -1 428.685 121.706 Tm
+1 0 0 -1 428.667 121.706 Tm
 (.) t
-1 0 0 -1 431.685 121.706 Tm
+1 0 0 -1 431.667 121.706 Tm
 (.) t
-1 0 0 -1 434.685 121.706 Tm
+1 0 0 -1 434.667 121.706 Tm
 (.) t
-1 0 0 -1 437.685 121.706 Tm
-(.) t
-1 0 0 -1 440.685 121.706 Tm
-(.) t
-1 0 0 -1 444.87 121.706 Tm
-[( ) -1095 ] TJ
-1 0 0 -1 448.465 121.706 Tm
-(9) t
+1 0 0 -1 439.851 121.706 Tm
+[( ) -1077 ] TJ
+1 0 0 -1 443.428 121.706 Tm
+(10) t
 1 0 0 -1 72 133.706 Tm
 (cycle_basis) t
 1 0 0 -1 118.1 133.706 Tm
@@ -2727,7 +2662,7 @@ BT
 1 0 0 -1 439.889 133.706 Tm
 [( ) -1114 ] TJ
 1 0 0 -1 443.503 133.706 Tm
-(10) t
+(11) t
 1 0 0 -1 72 145.706 Tm
 (delete_arcs) t
 1 0 0 -1 116.98 145.706 Tm
@@ -2947,7 +2882,7 @@ BT
 1 0 0 -1 439.892 145.706 Tm
 [( ) -1118 ] TJ
 1 0 0 -1 443.51 145.706 Tm
-(11) t
+(12) t
 1 0 0 -1 72 157.706 Tm
 (delete_nodes) t
 1 0 0 -1 124.21 157.706 Tm
@@ -3163,7 +3098,7 @@ BT
 1 0 0 -1 439.866 157.706 Tm
 [( ) -1091 ] TJ
 1 0 0 -1 443.457 157.706 Tm
-(12) t
+(13) t
 1 0 0 -1 72 169.706 Tm
 (edge_number) t
 1 0 0 -1 126.43 169.706 Tm
@@ -3377,7 +3312,7 @@ BT
 1 0 0 -1 439.858 169.706 Tm
 [( ) -1083 ] TJ
 1 0 0 -1 443.441 169.706 Tm
-(13) t
+(14) t
 1 0 0 -1 72 181.706 Tm
 (edit_graph) t
 1 0 0 -1 114.77 181.706 Tm
@@ -3599,7 +3534,7 @@ BT
 1 0 0 -1 439.9 181.706 Tm
 [( ) -1126 ] TJ
 1 0 0 -1 443.526 181.706 Tm
-(14) t
+(15) t
 1 0 0 -1 72 193.706 Tm
 (girth) t
 1 0 0 -1 90.89 193.706 Tm
@@ -3837,7 +3772,7 @@ BT
 1 0 0 -1 439.988 193.706 Tm
 [( ) -1213 ] TJ
 1 0 0 -1 443.701 193.706 Tm
-(15) t
+(16) t
 1 0 0 -1 72 205.706 Tm
 (graph_2_mat) t
 1 0 0 -1 124.77 205.706 Tm
@@ -4051,7 +3986,7 @@ BT
 1 0 0 -1 439.864 205.706 Tm
 [( ) -1089 ] TJ
 1 0 0 -1 443.453 205.706 Tm
-(16) t
+(17) t
 1 0 0 -1 72 217.706 Tm
 (graph_complement) t
 1 0 0 -1 149.21 217.706 Tm
@@ -4249,7 +4184,7 @@ BT
 1 0 0 -1 439.775 217.706 Tm
 [( ) -1000 ] TJ
 1 0 0 -1 443.275 217.706 Tm
-(17) t
+(18) t
 1 0 0 -1 72 229.706 Tm
 (graph_fields) t
 1 0 0 -1 121.99 229.706 Tm
@@ -4465,7 +4400,7 @@ BT
 1 0 0 -1 439.874 229.706 Tm
 [( ) -1100 ] TJ
 1 0 0 -1 443.474 229.706 Tm
-(18) t
+(19) t
 1 0 0 -1 72 241.706 Tm
 (graph_power) t
 1 0 0 -1 124.76 241.706 Tm
@@ -4679,7 +4614,7 @@ BT
 1 0 0 -1 439.863 241.706 Tm
 [( ) -1089 ] TJ
 1 0 0 -1 443.452 241.706 Tm
-(19) t
+(20) t
 1 0 0 -1 72 253.706 Tm
 (graph_simp) t
 1 0 0 -1 119.22 253.706 Tm
@@ -4897,7 +4832,7 @@ BT
 1 0 0 -1 439.885 253.706 Tm
 [( ) -1110 ] TJ
 1 0 0 -1 443.495 253.706 Tm
-(20) t
+(21) t
 1 0 0 -1 72 265.706 Tm
 (graph_sum) t
 1 0 0 -1 116.44 265.706 Tm
@@ -5117,7 +5052,7 @@ BT
 1 0 0 -1 439.895 265.706 Tm
 [( ) -1120 ] TJ
 1 0 0 -1 443.515 265.706 Tm
-(21) t
+(22) t
 1 0 0 -1 72 277.706 Tm
 (graph_union) t
 1 0 0 -1 122.55 277.706 Tm
@@ -5333,7 +5268,7 @@ BT
 1 0 0 -1 439.871 277.706 Tm
 [( ) -1097 ] TJ
 1 0 0 -1 443.468 277.706 Tm
-(22) t
+(23) t
 1 0 0 -1 72 289.706 Tm
 (knapsack) t
 1 0 0 -1 109.21 289.706 Tm
@@ -5559,7 +5494,7 @@ BT
 1 0 0 -1 439.92 289.706 Tm
 [( ) -1146 ] TJ
 1 0 0 -1 443.566 289.706 Tm
-(23) t
+(24) t
 1 0 0 -1 72 301.706 Tm
 (line_graph) t
 1 0 0 -1 114.77 301.706 Tm
@@ -5781,7 +5716,7 @@ BT
 1 0 0 -1 439.9 301.706 Tm
 [( ) -1126 ] TJ
 1 0 0 -1 443.526 301.706 Tm
-(24) t
+(25) t
 1 0 0 -1 72 313.706 Tm
 (make_graph) t
 1 0 0 -1 121.43 313.706 Tm
@@ -5997,7 +5932,7 @@ BT
 1 0 0 -1 439.876 313.706 Tm
 [( ) -1102 ] TJ
 1 0 0 -1 443.478 313.706 Tm
-(25) t
+(26) t
 1 0 0 -1 72 325.706 Tm
 (mat_2_graph) t
 1 0 0 -1 124.77 325.706 Tm
@@ -6211,7 +6146,7 @@ BT
 1 0 0 -1 439.864 325.706 Tm
 [( ) -1089 ] TJ
 1 0 0 -1 443.453 325.706 Tm
-(26) t
+(27) t
 1 0 0 -1 72 337.706 Tm
 (neighbors) t
 1 0 0 -1 111.44 337.706 Tm
@@ -6435,7 +6370,7 @@ BT
 1 0 0 -1 439.913 337.706 Tm
 [( ) -1138 ] TJ
 1 0 0 -1 443.551 337.706 Tm
-(27) t
+(28) t
 1 0 0 -1 72 349.706 Tm
 (netclose) t
 1 0 0 -1 104.77 349.706 Tm
@@ -6663,7 +6598,7 @@ BT
 1 0 0 -1 439.936 349.706 Tm
 [( ) -1162 ] TJ
 1 0 0 -1 443.598 349.706 Tm
-(28) t
+(29) t
 1 0 0 -1 72 361.706 Tm
 (netwindow) t
 1 0 0 -1 116.44 361.706 Tm
@@ -6883,7 +6818,7 @@ BT
 1 0 0 -1 439.895 361.706 Tm
 [( ) -1120 ] TJ
 1 0 0 -1 443.515 361.706 Tm
-(29) t
+(30) t
 1 0 0 -1 72 373.706 Tm
 (netwindows) t
 1 0 0 -1 120.33 373.706 Tm
@@ -7101,7 +7036,7 @@ BT
 1 0 0 -1 439.88 373.706 Tm
 [( ) -1106 ] TJ
 1 0 0 -1 443.486 373.706 Tm
-(30) t
+(31) t
 1 0 0 -1 72 385.706 Tm
 (node_number) t
 1 0 0 -1 126.99 385.706 Tm
@@ -7315,7 +7250,7 @@ BT
 1 0 0 -1 439.855 385.706 Tm
 [( ) -1081 ] TJ
 1 0 0 -1 443.436 385.706 Tm
-(31) t
+(32) t
 1 0 0 -1 72 397.706 Tm
 (nodes_degrees) t
 1 0 0 -1 130.87 397.706 Tm
@@ -7525,7 +7460,7 @@ BT
 1 0 0 -1 439.841 397.706 Tm
 [( ) -1067 ] TJ
 1 0 0 -1 443.408 397.706 Tm
-(32) t
+(33) t
 1 0 0 -1 72 409.706 Tm
 (pipe_network) t
 1 0 0 -1 126.99 409.706 Tm
@@ -7739,7 +7674,7 @@ BT
 1 0 0 -1 439.855 409.706 Tm
 [( ) -1081 ] TJ
 1 0 0 -1 443.436 409.706 Tm
-(33) t
+(34) t
 1 0 0 -1 72 421.706 Tm
 (plot_graph) t
 1 0 0 -1 115.33 421.706 Tm
@@ -7959,7 +7894,7 @@ BT
 1 0 0 -1 439.899 421.706 Tm
 [( ) -1124 ] TJ
 1 0 0 -1 443.523 421.706 Tm
-(34) t
+(35) t
 1 0 0 -1 72 433.706 Tm
 (predecessors) t
 1 0 0 -1 123.09 433.706 Tm
@@ -8175,7 +8110,7 @@ BT
 1 0 0 -1 439.87 433.706 Tm
 [( ) -1096 ] TJ
 1 0 0 -1 443.466 433.706 Tm
-(35) t
+(36) t
 1 0 0 -1 72 445.706 Tm
 (save_graph) t
 1 0 0 -1 117.54 445.706 Tm
@@ -8395,7 +8330,7 @@ BT
 1 0 0 -1 439.89 445.706 Tm
 [( ) -1116 ] TJ
 1 0 0 -1 443.506 445.706 Tm
-(36) t
+(37) t
 1 0 0 -1 72 457.706 Tm
 (show_arcs) t
 1 0 0 -1 114.21 457.706 Tm
@@ -8617,7 +8552,7 @@ BT
 1 0 0 -1 439.903 457.706 Tm
 [( ) -1128 ] TJ
 1 0 0 -1 443.531 457.706 Tm
-(37) t
+(38) t
 1 0 0 -1 72 469.706 Tm
 (show_graph) t
 1 0 0 -1 120.88 469.706 Tm
@@ -8835,7 +8770,7 @@ BT
 1 0 0 -1 439.878 469.706 Tm
 [( ) -1104 ] TJ
 1 0 0 -1 443.482 469.706 Tm
-(38) t
+(39) t
 1 0 0 -1 72 481.706 Tm
 (show_nodes) t
 1 0 0 -1 121.44 481.706 Tm
@@ -9051,7 +8986,7 @@ BT
 1 0 0 -1 439.876 481.706 Tm
 [( ) -1102 ] TJ
 1 0 0 -1 443.478 481.706 Tm
-(39) t
+(40) t
 1 0 0 -1 72 493.706 Tm
 (sort) t
 1 0 0 -1 87 493.706 Tm
@@ -9291,7 +9226,7 @@ BT
 1 0 0 -1 440.001 493.706 Tm
 [( ) -1227 ] TJ
 1 0 0 -1 443.728 493.706 Tm
-(40) t
+(41) t
 1 0 0 -1 72 505.706 Tm
 (split_edge) t
 1 0 0 -1 113.11 505.706 Tm
@@ -9513,7 +9448,7 @@ BT
 1 0 0 -1 439.906 505.706 Tm
 [( ) -1132 ] TJ
 1 0 0 -1 443.538 505.706 Tm
-(41) t
+(42) t
 1 0 0 -1 72 517.706 Tm
 (subgraph) t
 1 0 0 -1 108.66 517.706 Tm
@@ -9739,7 +9674,7 @@ BT
 1 0 0 -1 439.923 517.706 Tm
 [( ) -1148 ] TJ
 1 0 0 -1 443.571 517.706 Tm
-(42) t
+(43) t
 1 0 0 -1 72 529.706 Tm
 (successors) t
 1 0 0 -1 114.21 529.706 Tm
@@ -9961,7 +9896,7 @@ BT
 1 0 0 -1 439.903 529.706 Tm
 [( ) -1128 ] TJ
 1 0 0 -1 443.531 529.706 Tm
-(43) t
+(44) t
 1 0 0 -1 72 541.706 Tm
 (supernode) t
 1 0 0 -1 113.1 541.706 Tm
@@ -10183,7 +10118,7 @@ BT
 1 0 0 -1 439.906 541.706 Tm
 [( ) -1132 ] TJ
 1 0 0 -1 443.538 541.706 Tm
-(44) t
+(45) t
 1 0 0 -1 72 553.706 Tm
 [(1. ) -1009 (scilab_pdf_help)] TJ
 1 0 0 -1 146.889 553.706 Tm
@@ -10383,8 +10318,69 @@ BT
 1 0 0 -1 439.782 553.706 Tm
 [( ) -1009 ] TJ
 1 0 0 -1 443.291 553.706 Tm
-(45) t
+(46) t
 ET
+GR
+GR
+GS
+[0 -1 1 0 523.275 777.089] CT
+GR
+GS
+[1 0 0 1 72 777.089] CT
+GS
+[1 0 0 1 0 14.3] CT
+GS
+0 0.25  translate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GR
+GS
+[1 0 0 1 150.425 14.3] CT
+GS
+0 0.25  translate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GS
+BT
+/Times-Roman 10 F
+1 0 0 -1 71.042 10.83 Tm
+(iii) t
+ET
+GR
+GR
+GS
+[1 0 0 1 300.85 14.3] CT
+GS
+0 0.25  translate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
 GR
 GR
 showpage
@@ -10461,6 +10457,16 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 24.883 F
+1 0 0 -1 135.056 21.287 Tm
+(Part I. scinetwk) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -10512,16 +10518,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 24.883 F
-1 0 0 -1 135.056 21.287 Tm
-(Part I. scinetwk) t
-ET
 GR
 GR
 showpage
@@ -10595,67 +10591,6 @@ GR
 GR
 GS
 [0 -1 1 0 72 777.089] CT
-GR
-GS
-[0 -1 1 0 523.275 777.089] CT
-GR
-GS
-[1 0 0 1 72 777.089] CT
-GS
-[1 0 0 1 0 14.3] CT
-GS
-0 0.25  translate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GR
-GS
-[1 0 0 1 150.425 14.3] CT
-GS
-0 0.25  translate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GS
-BT
-/Times-Roman 10 F
-1 0 0 -1 72.712 10.83 Tm
-(2) t
-ET
-GR
-GR
-GS
-[1 0 0 1 300.85 14.3] CT
-GS
-0 0.25  translate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GR
 GR
 GS
 [1 0 0 1 72 72] CT
@@ -10880,8 +10815,69 @@ BT
 1 0 0 -1 439.798 37.706 Tm
 [( ) -1025 ] TJ
 1 0 0 -1 443.323 37.706 Tm
-(45) t
+(46) t
 ET
+GR
+GR
+GS
+[0 -1 1 0 523.275 777.089] CT
+GR
+GS
+[1 0 0 1 72 777.089] CT
+GS
+[1 0 0 1 0 14.3] CT
+GS
+0 0.25  translate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GR
+GS
+[1 0 0 1 150.425 14.3] CT
+GS
+0 0.25  translate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GS
+BT
+/Times-Roman 10 F
+1 0 0 -1 72.712 10.83 Tm
+(2) t
+ET
+GR
+GR
+GS
+[1 0 0 1 300.85 14.3] CT
+GS
+0 0.25  translate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
 GR
 GR
 showpage
@@ -10958,6 +10954,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(%graph_p ) t
+1 0 0 -1 91.6 29.066 Tm
+(\227) t
+1 0 0 -1 101.6 29.066 Tm
+( display graph informations) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -11016,23 +11029,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(%graph_p ) t
-1 0 0 -1 91.6 29.066 Tm
-(\227) t
-1 0 0 -1 101.6 29.066 Tm
-( display graph informations) t
-ET
 GR
 GR
 showpage
@@ -11109,6 +11105,69 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(add_edge ) t
+1 0 0 -1 88.82 29.066 Tm
+(\227) t
+1 0 0 -1 98.82 29.066 Tm
+( SciNetwk) t
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 57.519 Tm
+(Syntax) t
+ET
+GR
+GS
+[1 0 0 1 0 0] CT
+48 73.472 M
+451.275 73.472 L
+451.275 121.472 L
+48 121.472 L
+48 73.472 L
+clip N
+0.878 GC
+48 73.472 403.275 48 re
+f
+GR
+GS
+BT
+/Courier 10 F
+1 0 0 -1 48 93.832 Tm
+(   [g1]=add_edge\(i,j,g\)) t
+1 0 0 -1 48 105.832 Tm
+(   ) t
+1 0 0 -1 48 117.832 Tm
+(   ) t
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 146.255 Tm
+(Parameters) t
+/Times-Roman 10 F
+1 0 0 -1 48 170.538 Tm
+(i :) t
+1 0 0 -1 66 182.538 Tm
+(integer, number of start node) t
+1 0 0 -1 48 204.538 Tm
+(j :) t
+1 0 0 -1 66 216.538 Tm
+(integer, number of end node) t
+1 0 0 -1 48 238.538 Tm
+(g :) t
+1 0 0 -1 66 250.538 Tm
+(graph list) t
+1 0 0 -1 48 272.538 Tm
+(g1 :) t
+1 0 0 -1 66 284.538 Tm
+(graph list of the new graph with the added edge) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -11169,26 +11228,10 @@ clip N
 GR
 GR
 GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(add_edge ) t
-1 0 0 -1 88.82 29.066 Tm
-(\227) t
-1 0 0 -1 98.82 29.066 Tm
-( Copyright INRIA) t
-ET
-GR
-GR
 showpage
 %%PageTrailer
-%%PageResources: font Helvetica-Bold
+%%PageResources: font Courier
+%%+ font Helvetica-Bold
 %%+ font Times-Roman
 %%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
 %%Page: 5 8
@@ -11260,6 +11303,158 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(add_node ) t
+1 0 0 -1 89.38 29.066 Tm
+(\227) t
+1 0 0 -1 99.38 29.066 Tm
+( SciNetwk) t
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 57.519 Tm
+(Syntax) t
+ET
+GR
+GS
+[1 0 0 1 0 0] CT
+48 72.455 M
+451.275 72.455 L
+451.275 120.455 L
+48 120.455 L
+48 72.455 L
+clip N
+0.878 GC
+48 72.455 403.275 48 re
+f
+GR
+GS
+BT
+/Courier 10 F
+1 0 0 -1 48 92.815 Tm
+(   g1 = add_node\(g,[xy,name]\)) t
+1 0 0 -1 48 104.815 Tm
+(   ) t
+1 0 0 -1 48 116.815 Tm
+(   ) t
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 144.221 Tm
+(Parameters) t
+/Times-Roman 10 F
+1 0 0 -1 48 167.487 Tm
+(g:) t
+1 0 0 -1 66 179.487 Tm
+(graph list) t
+1 0 0 -1 48 200.47 Tm
+(xy:) t
+1 0 0 -1 66 212.47 Tm
+(optional row vector of coordinates of new node) t
+1 0 0 -1 48 233.453 Tm
+(name:) t
+1 0 0 -1 66 245.453 Tm
+(optional name of the added node) t
+1 0 0 -1 48 266.436 Tm
+(g1:) t
+1 0 0 -1 66 278.436 Tm
+(graph list of the new graph with the added node) t
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 305.872 Tm
+(Description) t
+/Times-Roman 10 F
+1 0 0 -1 48 329.138 Tm
+[(add_node ) -197 (adds ) -197 (a ) -197 (disconnected ) -197 (node ) -197 (to ) -197 (graph ) -197 (g ) -197 (and ) -197 (returns ) -197 (the ) -197 (new ) -197 (graph ) -197 (g1. ) -197 (The ) -197 
+(coordinates ) -197 (of ) -197 (the)] TJ
+1 0 0 -1 48 341.138 Tm
+[(new ) 579 (node ) 579 (can ) 579 (be ) 579 (given ) 579 (as ) 579 (a ) 579 (row ) 579 (vector ) 579 (of ) 579 (coordinates ) 579 (in ) 579 (xy. ) 579 (If ) 579 (the ) 579 (nodes ) 579 (of ) 579 
+(graph ) 579 (g ) 579 (have ) 579 (no ) 579 (coordinates)] TJ
+1 0 0 -1 48 353.138 Tm
+[(\(elements ) 421 (node_x ) 421 (and ) 421 (node_y ) 421 (are ) 421 ([]\), ) 421 (to ) 421 (give ) 421 (xy ) 421 (has ) 421 (no ) 421 (effect. ) 421 (If ) 421 (the ) 421 (nodes ) 421 (of ) 421 (graph ) 421 
+(g ) 421 (have ) 421 (coordinates)] TJ
+1 0 0 -1 48 365.138 Tm
+(and xy is not given, the new node has \(0,0\) as coordinates.) t
+1 0 0 -1 48 386.121 Tm
+[(If ) -674 (name ) -674 (is ) -674 (given, ) -674 (it ) -674 (is ) -674 (the ) -674 (name ) -674 (of ) -674 (the ) -674 (new ) -674 (node, ) -674 (otherwise ) -674 (the ) -674 (number ) -674 (of ) -674 
+(nodes ) -674 (plus ) -674 (1 ) -674 (is ) -674 (taken ) -674 (as)] TJ
+1 0 0 -1 48 398.121 Tm
+(the name of the new node.) t
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 434.54 Tm
+(Examples) t
+ET
+GR
+GS
+[1 0 0 1 0 0] CT
+48 449.476 M
+451.275 449.476 L
+451.275 605.476 L
+48 605.476 L
+48 449.476 L
+clip N
+0.878 GC
+48 449.476 403.275 156 re
+f
+GR
+GS
+BT
+/Courier 10 F
+1 0 0 -1 48 469.836 Tm
+(ta=[1 1 2 2 2 3 4 5 5 7 8 8 9 10 10 10 11 12 13 13 13 14 15 16 16 17 17];) t
+1 0 0 -1 48 481.836 Tm
+(he=[2 10 3 5 7 4 2 4 6 8 6 9 7 7 11 15 12 13 9 10 14 11 16 1 17 14 15];) t
+1 0 0 -1 48 493.836 Tm
+(g=make_graph\('foo',1,17,ta,he\);) t
+1 0 0 -1 48 505.836 Tm
+(g\('node_x'\)=[283 163 63 57 164 164 273 271 339 384 504 513 439 623 631 757 642];) t
+1 0 0 -1 48 517.836 Tm
+(g\('node_y'\)=[59 133 223 318 227 319 221 324 432 141 209 319 428 443 187 151 301];) t
+1 0 0 -1 48 529.836 Tm
+(show_graph\(g\);) t
+1 0 0 -1 48 541.836 Tm
+(n=g\('node_number'\);) t
+1 0 0 -1 48 553.836 Tm
+(g1=add_node\(g,[270 140]\);) t
+1 0 0 -1 48 565.836 Tm
+(g1\('node_color'\)=[ones\(1,n\) 11];) t
+1 0 0 -1 48 577.836 Tm
+(show_graph\(g1\);) t
+1 0 0 -1 48 601.836 Tm
+(   ) t
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 629.242 Tm
+(See also) t
+/Times-Roman 10 F
+1 0 0 -1 48 643.525 Tm
+(add_edge) t
+1 0 0 -1 86.32 643.525 Tm
+(, ) t
+1 0 0 -1 91.32 643.525 Tm
+(delete_arcs) t
+1 0 0 -1 136.3 643.525 Tm
+(, ) t
+1 0 0 -1 141.3 643.525 Tm
+(delete_nodes,) t
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 670.961 Tm
+(Authors) t
+ET
+GR
+GS
+[1 0 0 1 48 685.897] CT
+GS
+BT
+/Times-Roman 10 F
+1 0 0 -1 0 8.33 Tm
+(scilab4/INRIA https://cecill.info/) t
+ET
+GR
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -11320,33 +11515,17 @@ clip N
 GR
 GR
 GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(add_node ) t
-1 0 0 -1 89.38 29.066 Tm
-(\227) t
-1 0 0 -1 99.38 29.066 Tm
-( Copyright INRIA) t
-ET
-GR
-GR
 showpage
 %%PageTrailer
-%%PageResources: font Helvetica-Bold
+%%PageResources: font Courier
+%%+ font Helvetica-Bold
 %%+ font Times-Roman
 %%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
 %%Page: 6 9
 %%PageBoundingBox: 0 0 595 842
 %%PageHiResBoundingBox: 0 0 595.275 841.889
 %%PageResources: (atend)
-%FOPSimplePageMaster: body-first
+%FOPSimplePageMaster: body-odd
 %%BeginPageSetup
 %FOPBeginSetPageDevice
 <<
@@ -11388,6 +11567,13 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
+GS
+BT
+/Times-Roman 10 F
+1 0 0 -1 55.772 8.33 Tm
+(add_node) t
+ET
+GR
 GR
 GS
 [1 0 0 1 300.85 0] CT
@@ -11409,6 +11595,19 @@ GR
 GR
 GS
 [0 -1 1 0 72 777.089] CT
+GR
+GS
+[1 0 0 1 72 72] CT
+GS
+[1 0 0 1 48 0] CT
+GS
+BT
+/Times-Roman 10 F
+1 0 0 -1 0 8.33 Tm
+(Philippe ROUX) t
+ET
+GR
+GR
 GR
 GS
 [0 -1 1 0 523.275 777.089] CT
@@ -11471,27 +11670,9 @@ clip N
 GR
 GR
 GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(arc_graph ) t
-1 0 0 -1 90.48 29.066 Tm
-(\227) t
-1 0 0 -1 100.48 29.066 Tm
-( Copyright INRIA) t
-ET
-GR
-GR
 showpage
 %%PageTrailer
-%%PageResources: font Helvetica-Bold
-%%+ font Times-Roman
+%%PageResources: font Times-Roman
 %%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
 %%Page: 7 10
 %%PageBoundingBox: 0 0 595 842
@@ -11562,6 +11743,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(arc_graph ) t
+1 0 0 -1 90.48 29.066 Tm
+(\227) t
+1 0 0 -1 100.48 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -11620,23 +11818,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(arc_number ) t
-1 0 0 -1 98.26 29.066 Tm
-(\227) t
-1 0 0 -1 108.26 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -11713,6 +11894,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(arc_number ) t
+1 0 0 -1 98.26 29.066 Tm
+(\227) t
+1 0 0 -1 108.26 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -11772,6 +11970,79 @@ clip N
 0 0 M 150.425 0 L S N
 GR
 GR
+GR
+showpage
+%%PageTrailer
+%%PageResources: font Helvetica-Bold
+%%+ font Times-Roman
+%%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
+%%Page: 9 12
+%%PageBoundingBox: 0 0 595 842
+%%PageHiResBoundingBox: 0 0 595.275 841.889
+%%PageResources: (atend)
+%FOPSimplePageMaster: body-first
+%%BeginPageSetup
+%FOPBeginSetPageDevice
+<<
+/PageSize [595 842]
+/ImagingBBox null
+>> setpagedevice
+%FOPEndSetPageDevice
+[1 0 0 -1 0 841.889] CT
+%%EndPageSetup
+GS
+[1 0 0 1 72 36] CT
+GS
+150.425 14.25  translate 
+180  rotate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GS
+[1 0 0 1 150.425 0] CT
+GS
+150.425 14.25  translate 
+180  rotate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GR
+GS
+[1 0 0 1 300.85 0] CT
+GS
+150.425 14.25  translate 
+180  rotate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GR
+GR
+GS
+[0 -1 1 0 72 777.089] CT
 GR
 GS
 [1 0 0 1 72 72] CT
@@ -11883,80 +12154,6 @@ ET
 GR
 GR
 GR
-showpage
-%%PageTrailer
-%%PageResources: font Courier
-%%+ font Helvetica-Bold
-%%+ font Times-Roman
-%%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
-%%Page: 9 12
-%%PageBoundingBox: 0 0 595 842
-%%PageHiResBoundingBox: 0 0 595.275 841.889
-%%PageResources: (atend)
-%FOPSimplePageMaster: body-first
-%%BeginPageSetup
-%FOPBeginSetPageDevice
-<<
-/PageSize [595 842]
-/ImagingBBox null
->> setpagedevice
-%FOPEndSetPageDevice
-[1 0 0 -1 0 841.889] CT
-%%EndPageSetup
-GS
-[1 0 0 1 72 36] CT
-GS
-150.425 14.25  translate 
-180  rotate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GS
-[1 0 0 1 150.425 0] CT
-GS
-150.425 14.25  translate 
-180  rotate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GR
-GS
-[1 0 0 1 300.85 0] CT
-GS
-150.425 14.25  translate 
-180  rotate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GR
-GR
-GS
-[0 -1 1 0 72 777.089] CT
-GR
 GS
 [0 -1 1 0 523.275 777.089] CT
 GR
@@ -12018,26 +12215,10 @@ clip N
 GR
 GR
 GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(contract_edge ) t
-1 0 0 -1 106.59 29.066 Tm
-(\227) t
-1 0 0 -1 116.59 29.066 Tm
-( Copyright INRIA) t
-ET
-GR
-GR
 showpage
 %%PageTrailer
-%%PageResources: font Helvetica-Bold
+%%PageResources: font Courier
+%%+ font Helvetica-Bold
 %%+ font Times-Roman
 %%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
 %%Page: 10 13
@@ -12109,6 +12290,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(contract_edge ) t
+1 0 0 -1 106.59 29.066 Tm
+(\227) t
+1 0 0 -1 116.59 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -12167,23 +12365,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(cycle_basis ) t
-1 0 0 -1 96.6 29.066 Tm
-(\227) t
-1 0 0 -1 106.6 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -12260,6 +12441,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(cycle_basis ) t
+1 0 0 -1 96.6 29.066 Tm
+(\227) t
+1 0 0 -1 106.6 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -12318,23 +12516,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(delete_arcs ) t
-1 0 0 -1 95.48 29.066 Tm
-(\227) t
-1 0 0 -1 105.48 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -12411,6 +12592,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(delete_arcs ) t
+1 0 0 -1 95.48 29.066 Tm
+(\227) t
+1 0 0 -1 105.48 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -12469,23 +12667,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(delete_nodes ) t
-1 0 0 -1 102.71 29.066 Tm
-(\227) t
-1 0 0 -1 112.71 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -12562,6 +12743,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(delete_nodes ) t
+1 0 0 -1 102.71 29.066 Tm
+(\227) t
+1 0 0 -1 112.71 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -12620,23 +12818,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(edge_number ) t
-1 0 0 -1 104.93 29.066 Tm
-(\227) t
-1 0 0 -1 114.93 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -12713,6 +12894,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(edge_number ) t
+1 0 0 -1 104.93 29.066 Tm
+(\227) t
+1 0 0 -1 114.93 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -12771,23 +12969,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(edit_graph ) t
-1 0 0 -1 93.27 29.066 Tm
-(\227) t
-1 0 0 -1 103.27 29.066 Tm
-( edit_graph - graph editor) t
-ET
 GR
 GR
 showpage
@@ -12864,6 +13045,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(edit_graph ) t
+1 0 0 -1 93.27 29.066 Tm
+(\227) t
+1 0 0 -1 103.27 29.066 Tm
+( edit_graph - graph editor) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -12922,23 +13120,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(girth ) t
-1 0 0 -1 69.39 29.066 Tm
-(\227) t
-1 0 0 -1 79.39 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -13015,6 +13196,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(girth ) t
+1 0 0 -1 69.39 29.066 Tm
+(\227) t
+1 0 0 -1 79.39 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -13073,23 +13271,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(graph_2_mat ) t
-1 0 0 -1 103.27 29.066 Tm
-(\227) t
-1 0 0 -1 113.27 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -13166,6 +13347,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(graph_2_mat ) t
+1 0 0 -1 103.27 29.066 Tm
+(\227) t
+1 0 0 -1 113.27 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -13224,23 +13422,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(graph_complement ) t
-1 0 0 -1 127.71 29.066 Tm
-(\227) t
-1 0 0 -1 137.71 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -13317,6 +13498,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(graph_complement ) t
+1 0 0 -1 127.71 29.066 Tm
+(\227) t
+1 0 0 -1 137.71 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -13376,6 +13574,79 @@ clip N
 0 0 M 150.425 0 L S N
 GR
 GR
+GR
+showpage
+%%PageTrailer
+%%PageResources: font Helvetica-Bold
+%%+ font Times-Roman
+%%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
+%%Page: 19 22
+%%PageBoundingBox: 0 0 595 842
+%%PageHiResBoundingBox: 0 0 595.275 841.889
+%%PageResources: (atend)
+%FOPSimplePageMaster: body-first
+%%BeginPageSetup
+%FOPBeginSetPageDevice
+<<
+/PageSize [595 842]
+/ImagingBBox null
+>> setpagedevice
+%FOPEndSetPageDevice
+[1 0 0 -1 0 841.889] CT
+%%EndPageSetup
+GS
+[1 0 0 1 72 36] CT
+GS
+150.425 14.25  translate 
+180  rotate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GS
+[1 0 0 1 150.425 0] CT
+GS
+150.425 14.25  translate 
+180  rotate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GR
+GS
+[1 0 0 1 300.85 0] CT
+GS
+150.425 14.25  translate 
+180  rotate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GR
+GR
+GS
+[0 -1 1 0 72 777.089] CT
 GR
 GS
 [1 0 0 1 72 72] CT
@@ -13485,80 +13756,6 @@ ET
 GR
 GR
 GR
-showpage
-%%PageTrailer
-%%PageResources: font Courier
-%%+ font Helvetica-Bold
-%%+ font Times-Roman
-%%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
-%%Page: 19 22
-%%PageBoundingBox: 0 0 595 842
-%%PageHiResBoundingBox: 0 0 595.275 841.889
-%%PageResources: (atend)
-%FOPSimplePageMaster: body-first
-%%BeginPageSetup
-%FOPBeginSetPageDevice
-<<
-/PageSize [595 842]
-/ImagingBBox null
->> setpagedevice
-%FOPEndSetPageDevice
-[1 0 0 -1 0 841.889] CT
-%%EndPageSetup
-GS
-[1 0 0 1 72 36] CT
-GS
-150.425 14.25  translate 
-180  rotate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GS
-[1 0 0 1 150.425 0] CT
-GS
-150.425 14.25  translate 
-180  rotate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GR
-GS
-[1 0 0 1 300.85 0] CT
-GS
-150.425 14.25  translate 
-180  rotate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GR
-GR
-GS
-[0 -1 1 0 72 777.089] CT
-GR
 GS
 [0 -1 1 0 523.275 777.089] CT
 GR
@@ -13620,26 +13817,10 @@ clip N
 GR
 GR
 GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(graph_power ) t
-1 0 0 -1 103.26 29.066 Tm
-(\227) t
-1 0 0 -1 113.26 29.066 Tm
-( Copyright INRIA) t
-ET
-GR
-GR
 showpage
 %%PageTrailer
-%%PageResources: font Helvetica-Bold
+%%PageResources: font Courier
+%%+ font Helvetica-Bold
 %%+ font Times-Roman
 %%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
 %%Page: 20 23
@@ -13711,6 +13892,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(graph_power ) t
+1 0 0 -1 103.26 29.066 Tm
+(\227) t
+1 0 0 -1 113.26 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -13769,23 +13967,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(graph_simp ) t
-1 0 0 -1 97.72 29.066 Tm
-(\227) t
-1 0 0 -1 107.72 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -13862,6 +14043,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(graph_simp ) t
+1 0 0 -1 97.72 29.066 Tm
+(\227) t
+1 0 0 -1 107.72 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -13920,23 +14118,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(graph_sum ) t
-1 0 0 -1 94.94 29.066 Tm
-(\227) t
-1 0 0 -1 104.94 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -14013,6 +14194,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(graph_sum ) t
+1 0 0 -1 94.94 29.066 Tm
+(\227) t
+1 0 0 -1 104.94 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -14071,23 +14269,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(graph_union ) t
-1 0 0 -1 101.05 29.066 Tm
-(\227) t
-1 0 0 -1 111.05 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -14164,6 +14345,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(graph_union ) t
+1 0 0 -1 101.05 29.066 Tm
+(\227) t
+1 0 0 -1 111.05 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -14222,23 +14420,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(knapsack ) t
-1 0 0 -1 87.71 29.066 Tm
-(\227) t
-1 0 0 -1 97.71 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -14315,6 +14496,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(knapsack ) t
+1 0 0 -1 87.71 29.066 Tm
+(\227) t
+1 0 0 -1 97.71 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -14373,23 +14571,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(line_graph ) t
-1 0 0 -1 93.27 29.066 Tm
-(\227) t
-1 0 0 -1 103.27 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -14466,6 +14647,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(line_graph ) t
+1 0 0 -1 93.27 29.066 Tm
+(\227) t
+1 0 0 -1 103.27 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -14525,6 +14723,79 @@ clip N
 0 0 M 150.425 0 L S N
 GR
 GR
+GR
+showpage
+%%PageTrailer
+%%PageResources: font Helvetica-Bold
+%%+ font Times-Roman
+%%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
+%%Page: 26 29
+%%PageBoundingBox: 0 0 595 842
+%%PageHiResBoundingBox: 0 0 595.275 841.889
+%%PageResources: (atend)
+%FOPSimplePageMaster: body-first
+%%BeginPageSetup
+%FOPBeginSetPageDevice
+<<
+/PageSize [595 842]
+/ImagingBBox null
+>> setpagedevice
+%FOPEndSetPageDevice
+[1 0 0 -1 0 841.889] CT
+%%EndPageSetup
+GS
+[1 0 0 1 72 36] CT
+GS
+150.425 14.25  translate 
+180  rotate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GS
+[1 0 0 1 150.425 0] CT
+GS
+150.425 14.25  translate 
+180  rotate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GR
+GS
+[1 0 0 1 300.85 0] CT
+GS
+150.425 14.25  translate 
+180  rotate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GR
+GR
+GS
+[0 -1 1 0 72 777.089] CT
 GR
 GS
 [1 0 0 1 72 72] CT
@@ -14646,80 +14917,6 @@ ET
 GR
 GR
 GR
-showpage
-%%PageTrailer
-%%PageResources: font Courier
-%%+ font Helvetica-Bold
-%%+ font Times-Roman
-%%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
-%%Page: 26 29
-%%PageBoundingBox: 0 0 595 842
-%%PageHiResBoundingBox: 0 0 595.275 841.889
-%%PageResources: (atend)
-%FOPSimplePageMaster: body-first
-%%BeginPageSetup
-%FOPBeginSetPageDevice
-<<
-/PageSize [595 842]
-/ImagingBBox null
->> setpagedevice
-%FOPEndSetPageDevice
-[1 0 0 -1 0 841.889] CT
-%%EndPageSetup
-GS
-[1 0 0 1 72 36] CT
-GS
-150.425 14.25  translate 
-180  rotate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GS
-[1 0 0 1 150.425 0] CT
-GS
-150.425 14.25  translate 
-180  rotate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GR
-GS
-[1 0 0 1 300.85 0] CT
-GS
-150.425 14.25  translate 
-180  rotate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GR
-GR
-GS
-[0 -1 1 0 72 777.089] CT
-GR
 GS
 [0 -1 1 0 523.275 777.089] CT
 GR
@@ -14781,26 +14978,10 @@ clip N
 GR
 GR
 GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(mat_2_graph ) t
-1 0 0 -1 103.27 29.066 Tm
-(\227) t
-1 0 0 -1 113.27 29.066 Tm
-( Copyright INRIA) t
-ET
-GR
-GR
 showpage
 %%PageTrailer
-%%PageResources: font Helvetica-Bold
+%%PageResources: font Courier
+%%+ font Helvetica-Bold
 %%+ font Times-Roman
 %%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
 %%Page: 27 30
@@ -14872,6 +15053,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(mat_2_graph ) t
+1 0 0 -1 103.27 29.066 Tm
+(\227) t
+1 0 0 -1 113.27 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -14930,23 +15128,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(neighbors ) t
-1 0 0 -1 89.94 29.066 Tm
-(\227) t
-1 0 0 -1 99.94 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -15023,6 +15204,65 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(neighbors ) t
+1 0 0 -1 89.94 29.066 Tm
+(\227) t
+1 0 0 -1 99.94 29.066 Tm
+( SciNetwk) t
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 57.519 Tm
+(Syntax) t
+ET
+GR
+GS
+[1 0 0 1 0 0] CT
+48 73.472 M
+451.275 73.472 L
+451.275 121.472 L
+48 121.472 L
+48 73.472 L
+clip N
+0.878 GC
+48 73.472 403.275 48 re
+f
+GR
+GS
+BT
+/Courier 10 F
+1 0 0 -1 48 93.832 Tm
+(   [d]=neighbors\(i,g\)) t
+1 0 0 -1 48 105.832 Tm
+(   ) t
+1 0 0 -1 48 117.832 Tm
+(   ) t
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 146.255 Tm
+(Parameters) t
+/Times-Roman 10 F
+1 0 0 -1 48 170.538 Tm
+(i :) t
+1 0 0 -1 66 182.538 Tm
+(integer) t
+1 0 0 -1 48 204.538 Tm
+(g :) t
+1 0 0 -1 66 216.538 Tm
+(graph list) t
+1 0 0 -1 48 238.538 Tm
+(d :) t
+1 0 0 -1 66 250.538 Tm
+(row vector of integers) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -15083,26 +15323,10 @@ clip N
 GR
 GR
 GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(netclose ) t
-1 0 0 -1 83.27 29.066 Tm
-(\227) t
-1 0 0 -1 93.27 29.066 Tm
-( Copyright INRIA) t
-ET
-GR
-GR
 showpage
 %%PageTrailer
-%%PageResources: font Helvetica-Bold
+%%PageResources: font Courier
+%%+ font Helvetica-Bold
 %%+ font Times-Roman
 %%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
 %%Page: 29 32
@@ -15174,6 +15398,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(netclose ) t
+1 0 0 -1 83.27 29.066 Tm
+(\227) t
+1 0 0 -1 93.27 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -15232,23 +15473,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(netwindow ) t
-1 0 0 -1 94.94 29.066 Tm
-(\227) t
-1 0 0 -1 104.94 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -15325,6 +15549,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(netwindow ) t
+1 0 0 -1 94.94 29.066 Tm
+(\227) t
+1 0 0 -1 104.94 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -15383,23 +15624,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(netwindows ) t
-1 0 0 -1 98.83 29.066 Tm
-(\227) t
-1 0 0 -1 108.83 29.066 Tm
-( w=winsid\(\)) t
-ET
 GR
 GR
 showpage
@@ -15476,6 +15700,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(netwindows ) t
+1 0 0 -1 98.83 29.066 Tm
+(\227) t
+1 0 0 -1 108.83 29.066 Tm
+( w=winsid\(\)) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -15534,23 +15775,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(node_number ) t
-1 0 0 -1 105.49 29.066 Tm
-(\227) t
-1 0 0 -1 115.49 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -15627,6 +15851,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(node_number ) t
+1 0 0 -1 105.49 29.066 Tm
+(\227) t
+1 0 0 -1 115.49 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -15685,23 +15926,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(nodes_degrees ) t
-1 0 0 -1 109.37 29.066 Tm
-(\227) t
-1 0 0 -1 119.37 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -15778,6 +16002,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(nodes_degrees ) t
+1 0 0 -1 109.37 29.066 Tm
+(\227) t
+1 0 0 -1 119.37 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -15836,23 +16077,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(pipe_network ) t
-1 0 0 -1 105.49 29.066 Tm
-(\227) t
-1 0 0 -1 115.49 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -15929,6 +16153,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(pipe_network ) t
+1 0 0 -1 105.49 29.066 Tm
+(\227) t
+1 0 0 -1 115.49 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -15987,23 +16228,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(plot_graph ) t
-1 0 0 -1 93.83 29.066 Tm
-(\227) t
-1 0 0 -1 103.83 29.066 Tm
-( This function plot a graph with multiple arcs in the Scilab graphic window) t
-ET
 GR
 GR
 showpage
@@ -16080,6 +16304,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(plot_graph ) t
+1 0 0 -1 93.83 29.066 Tm
+(\227) t
+1 0 0 -1 103.83 29.066 Tm
+( This function plot a graph with multiple arcs in the Scilab graphic window) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -16138,23 +16379,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(predecessors ) t
-1 0 0 -1 101.59 29.066 Tm
-(\227) t
-1 0 0 -1 111.59 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -16231,6 +16455,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(predecessors ) t
+1 0 0 -1 101.59 29.066 Tm
+(\227) t
+1 0 0 -1 111.59 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -16290,6 +16531,79 @@ clip N
 0 0 M 150.425 0 L S N
 GR
 GR
+GR
+showpage
+%%PageTrailer
+%%PageResources: font Helvetica-Bold
+%%+ font Times-Roman
+%%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
+%%Page: 37 40
+%%PageBoundingBox: 0 0 595 842
+%%PageHiResBoundingBox: 0 0 595.275 841.889
+%%PageResources: (atend)
+%FOPSimplePageMaster: body-first
+%%BeginPageSetup
+%FOPBeginSetPageDevice
+<<
+/PageSize [595 842]
+/ImagingBBox null
+>> setpagedevice
+%FOPEndSetPageDevice
+[1 0 0 -1 0 841.889] CT
+%%EndPageSetup
+GS
+[1 0 0 1 72 36] CT
+GS
+150.425 14.25  translate 
+180  rotate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GS
+[1 0 0 1 150.425 0] CT
+GS
+150.425 14.25  translate 
+180  rotate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GR
+GS
+[1 0 0 1 300.85 0] CT
+GS
+150.425 14.25  translate 
+180  rotate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GR
+GR
+GS
+[0 -1 1 0 72 777.089] CT
 GR
 GS
 [1 0 0 1 72 72] CT
@@ -16408,80 +16722,6 @@ ET
 GR
 GR
 GR
-showpage
-%%PageTrailer
-%%PageResources: font Courier
-%%+ font Helvetica-Bold
-%%+ font Times-Roman
-%%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
-%%Page: 37 40
-%%PageBoundingBox: 0 0 595 842
-%%PageHiResBoundingBox: 0 0 595.275 841.889
-%%PageResources: (atend)
-%FOPSimplePageMaster: body-first
-%%BeginPageSetup
-%FOPBeginSetPageDevice
-<<
-/PageSize [595 842]
-/ImagingBBox null
->> setpagedevice
-%FOPEndSetPageDevice
-[1 0 0 -1 0 841.889] CT
-%%EndPageSetup
-GS
-[1 0 0 1 72 36] CT
-GS
-150.425 14.25  translate 
-180  rotate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GS
-[1 0 0 1 150.425 0] CT
-GS
-150.425 14.25  translate 
-180  rotate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GR
-GS
-[1 0 0 1 300.85 0] CT
-GS
-150.425 14.25  translate 
-180  rotate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GR
-GR
-GS
-[0 -1 1 0 72 777.089] CT
-GR
 GS
 [0 -1 1 0 523.275 777.089] CT
 GR
@@ -16543,26 +16783,10 @@ clip N
 GR
 GR
 GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(show_arcs ) t
-1 0 0 -1 92.71 29.066 Tm
-(\227) t
-1 0 0 -1 102.71 29.066 Tm
-( Copyright INRIA) t
-ET
-GR
-GR
 showpage
 %%PageTrailer
-%%PageResources: font Helvetica-Bold
+%%PageResources: font Courier
+%%+ font Helvetica-Bold
 %%+ font Times-Roman
 %%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
 %%Page: 38 41
@@ -16634,6 +16858,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(show_arcs ) t
+1 0 0 -1 92.71 29.066 Tm
+(\227) t
+1 0 0 -1 102.71 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -16693,6 +16934,79 @@ clip N
 0 0 M 150.425 0 L S N
 GR
 GR
+GR
+showpage
+%%PageTrailer
+%%PageResources: font Helvetica-Bold
+%%+ font Times-Roman
+%%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
+%%Page: 39 42
+%%PageBoundingBox: 0 0 595 842
+%%PageHiResBoundingBox: 0 0 595.275 841.889
+%%PageResources: (atend)
+%FOPSimplePageMaster: body-first
+%%BeginPageSetup
+%FOPBeginSetPageDevice
+<<
+/PageSize [595 842]
+/ImagingBBox null
+>> setpagedevice
+%FOPEndSetPageDevice
+[1 0 0 -1 0 841.889] CT
+%%EndPageSetup
+GS
+[1 0 0 1 72 36] CT
+GS
+150.425 14.25  translate 
+180  rotate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GS
+[1 0 0 1 150.425 0] CT
+GS
+150.425 14.25  translate 
+180  rotate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GR
+GS
+[1 0 0 1 300.85 0] CT
+GS
+150.425 14.25  translate 
+180  rotate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GR
+GR
+GS
+[0 -1 1 0 72 777.089] CT
 GR
 GS
 [1 0 0 1 72 72] CT
@@ -16793,80 +17107,6 @@ BT
 ET
 GR
 GR
-showpage
-%%PageTrailer
-%%PageResources: font Courier
-%%+ font Helvetica-Bold
-%%+ font Times-Roman
-%%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
-%%Page: 39 42
-%%PageBoundingBox: 0 0 595 842
-%%PageHiResBoundingBox: 0 0 595.275 841.889
-%%PageResources: (atend)
-%FOPSimplePageMaster: body-first
-%%BeginPageSetup
-%FOPBeginSetPageDevice
-<<
-/PageSize [595 842]
-/ImagingBBox null
->> setpagedevice
-%FOPEndSetPageDevice
-[1 0 0 -1 0 841.889] CT
-%%EndPageSetup
-GS
-[1 0 0 1 72 36] CT
-GS
-150.425 14.25  translate 
-180  rotate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GS
-[1 0 0 1 150.425 0] CT
-GS
-150.425 14.25  translate 
-180  rotate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GR
-GS
-[1 0 0 1 300.85 0] CT
-GS
-150.425 14.25  translate 
-180  rotate 
-0 0 M
-0 -0.25 L
-150.425 -0.25 L
-150.425 0 L
-150.425 0.25 L
-0 0.25 L
-cp
-clip N
-0.5 LW
-0 0 M 150.425 0 L S N
-GR
-GR
-GR
-GS
-[0 -1 1 0 72 777.089] CT
-GR
 GS
 [0 -1 1 0 523.275 777.089] CT
 GR
@@ -16928,26 +17168,10 @@ clip N
 GR
 GR
 GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(show_nodes ) t
-1 0 0 -1 99.94 29.066 Tm
-(\227) t
-1 0 0 -1 109.94 29.066 Tm
-( Copyright INRIA) t
-ET
-GR
-GR
 showpage
 %%PageTrailer
-%%PageResources: font Helvetica-Bold
+%%PageResources: font Courier
+%%+ font Helvetica-Bold
 %%+ font Times-Roman
 %%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
 %%Page: 40 43
@@ -17019,6 +17243,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(show_nodes ) t
+1 0 0 -1 99.94 29.066 Tm
+(\227) t
+1 0 0 -1 109.94 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -17077,23 +17318,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(sort ) t
-1 0 0 -1 65.5 29.066 Tm
-(\227) t
-1 0 0 -1 75.5 29.066 Tm
-( L2=gsort\(L1,'g','d'\)) t
-ET
 GR
 GR
 showpage
@@ -17170,6 +17394,89 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(sort ) t
+1 0 0 -1 65.5 29.066 Tm
+(\227) t
+1 0 0 -1 75.5 29.066 Tm
+( SciNetwk) t
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 57.519 Tm
+(Syntax) t
+ET
+GR
+GS
+[1 0 0 1 0 0] CT
+48 73.472 M
+451.275 73.472 L
+451.275 121.472 L
+48 121.472 L
+48 73.472 L
+clip N
+0.878 GC
+48 73.472 403.275 48 re
+f
+GR
+GS
+BT
+/Courier 10 F
+1 0 0 -1 48 93.832 Tm
+(   sort\(L\)) t
+1 0 0 -1 48 105.832 Tm
+(   ) t
+1 0 0 -1 48 117.832 Tm
+(   ) t
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 146.255 Tm
+(Parameters) t
+/Times-Roman 10 F
+1 0 0 -1 48 170.538 Tm
+(L:) t
+1 0 0 -1 66 182.538 Tm
+(list/vector) t
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 210.991 Tm
+(Description) t
+/Times-Roman 10 F
+1 0 0 -1 48 235.274 Tm
+(sort the list L in decreasing order using gsort) t
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 273.727 Tm
+(Examples) t
+ET
+GR
+GS
+[1 0 0 1 0 0] CT
+48 289.68 M
+451.275 289.68 L
+451.275 337.68 L
+48 337.68 L
+48 289.68 L
+clip N
+0.878 GC
+48 289.68 403.275 48 re
+f
+GR
+GS
+BT
+/Courier 10 F
+1 0 0 -1 48 310.04 Tm
+(L=grand\(1,10,'uin',1,100\)) t
+1 0 0 -1 48 322.04 Tm
+(sort\(L\)) t
+1 0 0 -1 48 334.04 Tm
+(   ) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -17230,26 +17537,10 @@ clip N
 GR
 GR
 GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(split_edge ) t
-1 0 0 -1 91.61 29.066 Tm
-(\227) t
-1 0 0 -1 101.61 29.066 Tm
-( Copyright INRIA) t
-ET
-GR
-GR
 showpage
 %%PageTrailer
-%%PageResources: font Helvetica-Bold
+%%PageResources: font Courier
+%%+ font Helvetica-Bold
 %%+ font Times-Roman
 %%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
 %%Page: 42 45
@@ -17321,6 +17612,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(split_edge ) t
+1 0 0 -1 91.61 29.066 Tm
+(\227) t
+1 0 0 -1 101.61 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -17379,23 +17687,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(subgraph ) t
-1 0 0 -1 87.16 29.066 Tm
-(\227) t
-1 0 0 -1 97.16 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -17472,6 +17763,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(subgraph ) t
+1 0 0 -1 87.16 29.066 Tm
+(\227) t
+1 0 0 -1 97.16 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -17530,23 +17838,6 @@ clip N
 0.5 LW
 0 0 M 150.425 0 L S N
 GR
-GR
-GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(successors ) t
-1 0 0 -1 92.71 29.066 Tm
-(\227) t
-1 0 0 -1 102.71 29.066 Tm
-( Copyright INRIA) t
-ET
 GR
 GR
 showpage
@@ -17623,6 +17914,65 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(successors ) t
+1 0 0 -1 92.71 29.066 Tm
+(\227) t
+1 0 0 -1 102.71 29.066 Tm
+( SciNetwk) t
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 57.519 Tm
+(Syntax) t
+ET
+GR
+GS
+[1 0 0 1 0 0] CT
+48 73.472 M
+451.275 73.472 L
+451.275 121.472 L
+48 121.472 L
+48 73.472 L
+clip N
+0.878 GC
+48 73.472 403.275 48 re
+f
+GR
+GS
+BT
+/Courier 10 F
+1 0 0 -1 48 93.832 Tm
+(   [d]=successors\(i,g\)) t
+1 0 0 -1 48 105.832 Tm
+(   ) t
+1 0 0 -1 48 117.832 Tm
+(   ) t
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 146.255 Tm
+(Parameters) t
+/Times-Roman 10 F
+1 0 0 -1 48 170.538 Tm
+(i :) t
+1 0 0 -1 66 182.538 Tm
+(integer) t
+1 0 0 -1 48 204.538 Tm
+(g :) t
+1 0 0 -1 66 216.538 Tm
+(graph list) t
+1 0 0 -1 48 238.538 Tm
+(d :) t
+1 0 0 -1 66 250.538 Tm
+(row vector of integers) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -17683,26 +18033,10 @@ clip N
 GR
 GR
 GR
-GS
-[1 0 0 1 72 72] CT
-GS
-BT
-/Helvetica-Bold 17.28 F
-1 0 0 -1 0 14.783 Tm
-(Name) t
-/Times-Roman 10 F
-1 0 0 -1 48 29.066 Tm
-(supernode ) t
-1 0 0 -1 91.6 29.066 Tm
-(\227) t
-1 0 0 -1 101.6 29.066 Tm
-( Copyright INRIA) t
-ET
-GR
-GR
 showpage
 %%PageTrailer
-%%PageResources: font Helvetica-Bold
+%%PageResources: font Courier
+%%+ font Helvetica-Bold
 %%+ font Times-Roman
 %%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
 %%Page: 45 48
@@ -17774,6 +18108,23 @@ GS
 [0 -1 1 0 72 777.089] CT
 GR
 GS
+[1 0 0 1 72 72] CT
+GS
+BT
+/Helvetica-Bold 17.28 F
+1 0 0 -1 0 14.783 Tm
+(Name) t
+/Times-Roman 10 F
+1 0 0 -1 48 29.066 Tm
+(supernode ) t
+1 0 0 -1 91.6 29.066 Tm
+(\227) t
+1 0 0 -1 101.6 29.066 Tm
+( Copyright INRIA) t
+ET
+GR
+GR
+GS
 [0 -1 1 0 523.275 777.089] CT
 GR
 GS
@@ -17834,6 +18185,79 @@ clip N
 GR
 GR
 GR
+showpage
+%%PageTrailer
+%%PageResources: font Helvetica-Bold
+%%+ font Times-Roman
+%%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
+%%Page: 46 49
+%%PageBoundingBox: 0 0 595 842
+%%PageHiResBoundingBox: 0 0 595.275 841.889
+%%PageResources: (atend)
+%FOPSimplePageMaster: body-first
+%%BeginPageSetup
+%FOPBeginSetPageDevice
+<<
+/PageSize [595 842]
+/ImagingBBox null
+>> setpagedevice
+%FOPEndSetPageDevice
+[1 0 0 -1 0 841.889] CT
+%%EndPageSetup
+GS
+[1 0 0 1 72 36] CT
+GS
+150.425 14.25  translate 
+180  rotate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GS
+[1 0 0 1 150.425 0] CT
+GS
+150.425 14.25  translate 
+180  rotate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GR
+GS
+[1 0 0 1 300.85 0] CT
+GS
+150.425 14.25  translate 
+180  rotate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GR
+GR
+GS
+[0 -1 1 0 72 777.089] CT
+GR
 GS
 [1 0 0 1 72 72] CT
 GS
@@ -17844,13 +18268,74 @@ BT
 ET
 GR
 GR
+GS
+[0 -1 1 0 523.275 777.089] CT
+GR
+GS
+[1 0 0 1 72 777.089] CT
+GS
+[1 0 0 1 0 14.3] CT
+GS
+0 0.25  translate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GR
+GS
+[1 0 0 1 150.425 14.3] CT
+GS
+0 0.25  translate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GS
+BT
+/Times-Roman 10 F
+1 0 0 -1 70.212 10.83 Tm
+(46) t
+ET
+GR
+GR
+GS
+[1 0 0 1 300.85 14.3] CT
+GS
+0 0.25  translate 
+0 0 M
+0 -0.25 L
+150.425 -0.25 L
+150.425 0 L
+150.425 0.25 L
+0 0.25 L
+cp
+clip N
+0.5 LW
+0 0 M 150.425 0 L S N
+GR
+GR
+GR
 showpage
 %%PageTrailer
 %%PageResources: font Helvetica-Bold
 %%+ font Times-Roman
 %%+ procset (Apache XML Graphics Std ProcSet) 1.2 0
 %%Trailer
-%%Pages: 48
+%%Pages: 49
 %%BoundingBox: 0 0 596 842
 %%HiResBoundingBox: 0 0 595.275 841.889
 %%DocumentNeededResources: font Courier

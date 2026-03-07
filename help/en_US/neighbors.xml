@@ -17,7 +17,33 @@
 
   <refnamediv>
     <refname>neighbors</refname>
-    <refpurpose>Copyright INRIA</refpurpose>
+    <refpurpose>SciNetwk</refpurpose>
   </refnamediv>
 
+
+<refsynopsisdiv>
+   <title>Syntax</title>
+   <synopsis>
+   [d]=neighbors(i,g)
+   
+   </synopsis>
+</refsynopsisdiv>
+
+<refsection>
+   <title>Parameters</title>
+   <variablelist>
+        <varlistentry>
+            <term>i :</term>
+            <listitem><para> integer</para></listitem>
+        </varlistentry>
+        <varlistentry>
+            <term>g :</term>
+            <listitem><para> graph list</para></listitem>
+        </varlistentry>
+        <varlistentry>
+            <term>d :</term>
+            <listitem><para> row vector of integers</para></listitem>
+        </varlistentry>
+   </variablelist>
+</refsection>
 </refentry>

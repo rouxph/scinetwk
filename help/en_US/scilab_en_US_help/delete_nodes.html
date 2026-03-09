@@ -33,7 +33,43 @@
 
     <br /><br />
     <div class="refnamediv"><h1 class="refname">delete_nodes</h1>
-    <p class="refpurpose">Copyright INRIA</p></div>
+    <p class="refpurpose">SciNetwk</p></div>
+
+
+<div class="refsynopsisdiv"><h3 class="title" id="#L25">Syntax</h3>
+   <div class="synopsis"><pre><span class="default">g1</span><span class="default"> = </span><span class="functionid">delete_nodes</span><span class="default">(</span><span class="default">v</span><span class="default">,</span><span class="default">g</span><span class="default">)</span></pre></div></div>
+
+<div class="refsection"><h3 class="title" id="#L33">Parameters</h3>
+   <dl><dt><span class="term">v:</span>
+            <dd><p class="para">vector of integers, numbers of nodes to be deleted</p></dd></dt>
+        <dt><span class="term">g:</span>
+            <dd><p class="para">graph list</p></dd></dt>
+        <dt><span class="term">g1:</span>
+            <dd><p class="para">graph list of the new graph with deleted nodes</p></dd></dt></dl></div>
+
+<div class="refsection"><h3 class="title" id="#L51">Description</h3>
+   <p class="para">delete_nodes returns the graph g1, with the nodes given by the vector v being deleted.</p>
+   <p class="para"></p></div>
+
+<div class="refsection"><h3 class="title" id="#L60">Examples</h3>
+   <div class="programlisting" id="#L72"><table border="0" width="100%"><tr><td width="98%"><pre class="scilabcode"><span class="scilabid">ta</span><span class="scilaboperator">=</span><span class="scilabopenclose">[</span><span class="scilabnumber">1</span> <span class="scilabnumber">1</span> <span class="scilabnumber">2</span> <span class="scilabnumber">2</span> <span class="scilabnumber">2</span> <span class="scilabnumber">3</span> <span class="scilabnumber">4</span> <span class="scilabnumber">5</span> <span class="scilabnumber">5</span> <span class="scilabnumber">7</span> <span class="scilabnumber">8</span> <span class="scilabnumber">8</span> <span class="scilabnumber">9</span> <span class="scilabnumber">10</span> <span class="scilabnumber">10</span> <span class="scilabnumber">10</span> <span class="scilabnumber">10</span> <span class="scilabnumber">10</span> <span class="scilabnumber">11</span> <span class="scilabnumber">12</span> <span class="scilabnumber">13</span> <span class="scilabnumber">13</span> <span class="scilabnumber">13</span> <span class="scilabnumber">14</span> <span class="scilabnumber">15</span> <span class="scilabnumber">16</span> <span class="scilabnumber">16</span> <span class="scilabnumber">17</span> <span class="scilabnumber">17</span><span class="scilabopenclose">]</span><span class="scilabdefault">;</span>
+<span class="scilabid">he</span><span class="scilaboperator">=</span><span class="scilabopenclose">[</span><span class="scilabnumber">2</span> <span class="scilabnumber">10</span> <span class="scilabnumber">3</span> <span class="scilabnumber">5</span> <span class="scilabnumber">7</span> <span class="scilabnumber">4</span> <span class="scilabnumber">2</span> <span class="scilabnumber">4</span> <span class="scilabnumber">6</span> <span class="scilabnumber">8</span> <span class="scilabnumber">6</span> <span class="scilabnumber">9</span> <span class="scilabnumber">7</span> <span class="scilabnumber">7</span> <span class="scilabnumber">11</span> <span class="scilabnumber">13</span> <span class="scilabnumber">13</span> <span class="scilabnumber">15</span> <span class="scilabnumber">12</span> <span class="scilabnumber">13</span> <span class="scilabnumber">9</span> <span class="scilabnumber">10</span> <span class="scilabnumber">14</span> <span class="scilabnumber">11</span> <span class="scilabnumber">16</span> <span class="scilabnumber">1</span> <span class="scilabnumber">17</span> <span class="scilabnumber">14</span> <span class="scilabnumber">15</span><span class="scilabopenclose">]</span><span class="scilabdefault">;</span>
+<span class="scilabid">g</span><span class="scilaboperator">=</span><span class="scilabid">make_graph</span><span class="scilabopenclose">(</span><span class="scilabstring">&#0039;</span><span class="scilabstring">foo</span><span class="scilabstring">&#0039;</span><span class="scilabdefault">,</span><span class="scilabnumber">1</span><span class="scilabdefault">,</span><span class="scilabnumber">17</span><span class="scilabdefault">,</span><span class="scilabid">ta</span><span class="scilabdefault">,</span><span class="scilabid">he</span><span class="scilabopenclose">)</span><span class="scilabdefault">;</span>
+<span class="scilabid">g</span><span class="scilabopenclose">(</span><span class="scilabstring">&#0039;</span><span class="scilabstring">node_x</span><span class="scilabstring">&#0039;</span><span class="scilabopenclose">)</span><span class="scilaboperator">=</span><span class="scilabopenclose">[</span><span class="scilabnumber">283</span> <span class="scilabnumber">163</span> <span class="scilabnumber">63</span> <span class="scilabnumber">57</span> <span class="scilabnumber">164</span> <span class="scilabnumber">164</span> <span class="scilabnumber">273</span> <span class="scilabnumber">271</span> <span class="scilabnumber">339</span> <span class="scilabnumber">384</span> <span class="scilabnumber">504</span> <span class="scilabnumber">513</span> <span class="scilabnumber">439</span> <span class="scilabnumber">623</span> <span class="scilabnumber">631</span> <span class="scilabnumber">757</span> <span class="scilabnumber">642</span><span class="scilabopenclose">]</span><span class="scilabdefault">;</span>
+<span class="scilabid">g</span><span class="scilabopenclose">(</span><span class="scilabstring">&#0039;</span><span class="scilabstring">node_y</span><span class="scilabstring">&#0039;</span><span class="scilabopenclose">)</span><span class="scilaboperator">=</span><span class="scilabopenclose">[</span><span class="scilabnumber">59</span> <span class="scilabnumber">133</span> <span class="scilabnumber">223</span> <span class="scilabnumber">318</span> <span class="scilabnumber">227</span> <span class="scilabnumber">319</span> <span class="scilabnumber">221</span> <span class="scilabnumber">324</span> <span class="scilabnumber">432</span> <span class="scilabnumber">141</span> <span class="scilabnumber">209</span> <span class="scilabnumber">319</span> <span class="scilabnumber">428</span> <span class="scilabnumber">443</span> <span class="scilabnumber">187</span> <span class="scilabnumber">151</span> <span class="scilabnumber">301</span><span class="scilabopenclose">]</span><span class="scilabdefault">;</span>
+<span class="scilabid">show_graph</span><span class="scilabopenclose">(</span><span class="scilabid">g</span><span class="scilabopenclose">)</span><span class="scilabdefault">;</span>
+<span class="scilabid">v</span><span class="scilaboperator">=</span><span class="scilabopenclose">[</span><span class="scilabnumber">10</span> <span class="scilabnumber">13</span> <span class="scilabnumber">4</span><span class="scilabopenclose">]</span><span class="scilabdefault">;</span>
+<span class="scilabid">gt</span><span class="scilaboperator">=</span><span class="scilabid">delete_nodes</span><span class="scilabopenclose">(</span><span class="scilabid">v</span><span class="scilabdefault">,</span><span class="scilabid">g</span><span class="scilabopenclose">)</span><span class="scilabdefault">;</span>
+<span class="scilabid">show_graph</span><span class="scilabopenclose">(</span><span class="scilabid">gt</span><span class="scilabopenclose">)</span><span class="scilabdefault">;</span></pre></td><td valign="top"><a href="scilab://scilab.execexample/"><img src="ScilabExecute.png" border="0"/></a></td><td valign="top"><a href="scilab://scilab.editexample/"><img src="ScilabEdit.png" border="0"/></a></td><td></td></tr></table></div></div>
+
+<div class="refsection"><h3 class="title" id="#L76">See also</h3>
+   <ul class="itemizedlist"><li class="member"><a href="add_edge.html" class="link">add_edge</a> &#8212; SciNetwk</li>
+   <li class="member"><a href="add_node.html" class="link">add_node</a> &#8212; SciNetwk</li>
+   <li class="member"><a href="delete_arcs.html" class="link">delete_arcs</a> &#8212; SciNetwk</li></ul></div>
+
+<div class="refsection"><h3 class="title" id="#L85">Authors</h3>
+   <ul class="itemizedlist"><li class="member">scilab4/metanet/INRIA https://cecill.info/</li>
+   <li class="member">Philippe ROUX</li></ul></div>
     <br />
 
     <div class="manualnavbar">

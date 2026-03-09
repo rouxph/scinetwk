@@ -1,5 +1,6 @@
-function L2=sort(L1)
+function [L2,ind]=sort(L1)
     //  SciNetwk 
+    //  gsort call for comlpatibility with scilab4
     // 
     // Syntax
     // sort(L)
@@ -8,7 +9,7 @@ function L2=sort(L1)
     // L: list/vector 
     //
     // Description
-    // sort the list L in decreasing order using gsort
+    // sort the list L in decreasing order using gsort, 
     //
     // Examples
     //    L=grand(1,10,'uin',1,100)
@@ -21,5 +22,5 @@ function L2=sort(L1)
     // Authors
     //  Philippe Roux
     //
-    L2=gsort(L1,'g','d')
+    [L2,ind]=gsort(L1,'g','d')
 endfunction

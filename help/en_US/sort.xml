@@ -42,7 +42,7 @@
 <refsection>
    <title>Description</title>
    <para>
-sort the list L in decreasing order using gsort
+sort the list L in decreasing order using gsort,
    </para>
    <para>
 </para>

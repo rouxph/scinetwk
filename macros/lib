@@ -8,9 +8,9 @@
   <macro name="check_graph" file="check_graph.bin" md5="ddde794d7a41db5d50d42f72183b6b20"/>
   <macro name="contract_edge" file="contract_edge.bin" md5="d35cf43e5fd1fba974d66eb6f8b7f350"/>
   <macro name="cycle_basis" file="cycle_basis.bin" md5="6f6edfba3347819b291182d3984c8cdd"/>
-  <macro name="delete_arcs" file="delete_arcs.bin" md5="2286152464165c5d83d55e3887122ae7"/>
-  <macro name="delete_nodes" file="delete_nodes.bin" md5="e7634eb08c1eba50eae27982faee95e3"/>
-  <macro name="edge_number" file="edge_number.bin" md5="9e68de2cd4ae60d035cf9399b001c25a"/>
+  <macro name="delete_arcs" file="delete_arcs.bin" md5="b631b4493b980f3fb393cca9b4d96daf"/>
+  <macro name="delete_nodes" file="delete_nodes.bin" md5="86d1fba09d4b88f3f760b70997e38649"/>
+  <macro name="edge_number" file="edge_number.bin" md5="a1fca39b2062c5a8bf89b963697e6cc4"/>
   <macro name="edit_graph" file="edit_graph.bin" md5="84cd4f804d923d75cfeb947debe84c45"/>
   <macro name="girth" file="girth.bin" md5="4d8abbb673b9102110d22111eaf4907c"/>
   <macro name="graph_2_mat" file="graph_2_mat.bin" md5="017ab57bab7c6252b1f73f2fcea6194f"/>
@@ -37,7 +37,7 @@
   <macro name="show_arcs" file="show_arcs.bin" md5="7de8b5513dbad5a56bd8f59f2be199d8"/>
   <macro name="show_graph" file="show_graph.bin" md5="fedbc746a017a8967f24beedd3f8cf82"/>
   <macro name="show_nodes" file="show_nodes.bin" md5="3d4a2115a9f08710e1f860dc63f77672"/>
-  <macro name="sort" file="sort.bin" md5="9923be0437dffe8754831d937178c57e"/>
+  <macro name="sort" file="sort.bin" md5="551137b6b6a85ad103b386d5ae735d37"/>
   <macro name="split_edge" file="split_edge.bin" md5="5705a0b3f32a059c7dee0c91179dbe9c"/>
   <macro name="subgraph" file="subgraph.bin" md5="1c6513a7c149e4df3fc36dede4cbac75"/>
   <macro name="successors" file="successors.bin" md5="4ec17066d0648dca1f6c879d8c0b7b80"/>

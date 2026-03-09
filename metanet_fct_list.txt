@@ -11,12 +11,12 @@ check_graph - checks a Scilab graph list <=  done
 circuit - finds a circuit or the rank function in a directed graph <= à refaire (m6*)
 con_nodes - set of nodes of a connected component <= à refaire (m6*)
 connex - connected components <= à refaire (m6*)
-contract_edge - contracts edges between two nodes <= from metanet, help ok, depend on delete_node*
+contract_edge - contracts edges between two nodes <= from metanet,  ok, help added, depend on delete_node
 convex_hull - convex hull of a set of points in the plane <= à refaire (m6*)
 cycle_basis - basis of cycle of a simple undirected graph  <= from metanet
-delete_arcs - deletes all the arcs or edges between a set of nodes <= from metanet
-delete_nodes - deletes nodes <= from metanet
-edge_number - number of edges of a graph 
+delete_arcs - deletes all the arcs or edges between a set of nodes <= from metanet, ok, help added
+delete_nodes - deletes nodes <= from metanet, ok help added (needs sort)
+edge_number - number of edges of a graph , ok, help added	
 edit_graph - graph and network graphical editor 
 edit_graph_menus - edit_graph menus description 
 find_path - finds a path between two nodes  <= à refaire (m6*)

@@ -3,6 +3,7 @@
 <!--Begin Entities-->
 <!ENTITY a1c10ac4754b898e6da37646fd47e5c68 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/add_edge.xml">
 <!ENTITY a2bc2505d16c6fb86a73db844c0ce4692 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/add_node.xml">
+<!ENTITY a9f09e00d1081367231aa3d9da47bbaf4 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/adj_lists.xml">
 <!ENTITY a4f669b024095b77f347df9f8823df4e4 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/arc_graph.xml">
 <!ENTITY ac45d50a765e5a80dbe7c69a440ced261 SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/arc_number.xml">
 <!ENTITY a427cdd8cd7e4b0d85d0d8e2035c5537e SYSTEM "/home/roux/Documents/informatique/scilab/scinetwk/help/en_US/check_graph.xml">
@@ -61,6 +62,7 @@
 <title>scinetwk</title>
 &a1c10ac4754b898e6da37646fd47e5c68;
 &a2bc2505d16c6fb86a73db844c0ce4692;
+&a9f09e00d1081367231aa3d9da47bbaf4;
 &a4f669b024095b77f347df9f8823df4e4;
 &ac45d50a765e5a80dbe7c69a440ced261;
 &a427cdd8cd7e4b0d85d0d8e2035c5537e;

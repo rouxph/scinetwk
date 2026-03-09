@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ *
+ * This help file was generated from adj_lists.sci using help_from_sci().
+ *
+ -->
+
+<refentry version="5.0-subset Scilab" xml:id="adj_lists" xml:lang="en"
+          xmlns="http://docbook.org/ns/docbook"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          xmlns:svg="http://www.w3.org/2000/svg"
+          xmlns:ns3="http://www.w3.org/1999/xhtml"
+          xmlns:mml="http://www.w3.org/1998/Math/MathML"
+          xmlns:scilab="http://www.scilab.org"
+          xmlns:db="http://docbook.org/ns/docbook">
+
+  <refnamediv>
+    <refname>adj_lists</refname>
+    <refpurpose>SciNetwk</refpurpose>
+  </refnamediv>
+
+
+<refsynopsisdiv>
+   <title>Syntax</title>
+   <synopsis>
+   [lp,la,ls] = adj_lists(g)
+   [lp,la,ls] = adj_lists(directed,n,tail,head)
+   
+   </synopsis>
+</refsynopsisdiv>
+
+<refsection>
+   <title>Parameters</title>
+   <variablelist>
+        <varlistentry>
+            <term>g:</term>
+            <listitem><para> graph list</para></listitem>
+        </varlistentry>
+        <varlistentry>
+            <term>directed:</term>
+            <listitem><para> integer, 0 (undirected graph) or 1 (directed graph)</para></listitem>
+        </varlistentry>
+        <varlistentry>
+            <term>n:</term>
+            <listitem><para> integer, the number of nodes of the graph</para></listitem>
+        </varlistentry>
+        <varlistentry>
+            <term>tail:</term>
+            <listitem><para> the row vector of the numbers of the tail nodes of the graph (its size is the number of edges of the graph)</para></listitem>
+        </varlistentry>
+        <varlistentry>
+            <term>head:</term>
+            <listitem><para> the row vector of the numbers of the head nodes of the graph (its size is the number of edges of the graph)</para></listitem>
+        </varlistentry>
+        <varlistentry>
+            <term>lp:</term>
+            <listitem><para> row vector, pointer array of the adjacency lists description of the graph (its size is the number of nodes of the graph + 1)</para></listitem>
+        </varlistentry>
+        <varlistentry>
+            <term>la:</term>
+            <listitem><para> row vector, arc array of the adjacency lists description of the graph (its size is the number of edges of the graph)</para></listitem>
+        </varlistentry>
+        <varlistentry>
+            <term>ls:</term>
+            <listitem><para> row vector, node array of the adjacency lists description of the graph (its size is the number of edges of the graph)</para></listitem>
+        </varlistentry>
+   </variablelist>
+</refsection>
+
+<refsection>
+   <title>Description</title>
+   <para>
+adj_lists computes the row vectors of the adjacency lists description of the graph g. It is also possible to give adj_lists the description of the graph given by the number of nodes n and the row vectors tail and head.
+</para>
+</refsection>
+</refentry>

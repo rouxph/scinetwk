@@ -2,7 +2,7 @@ function G=make_graph(name,directed,n,head,tail)
     //  SciNetwk 
     // 
     // Syntax
-    // G=make_graph(name,n,directed,head,tail)
+    // G=make_graph(name,directed,n,head,tail)
     //
     // Parameters
     // name: string

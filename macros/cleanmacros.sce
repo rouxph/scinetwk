@@ -5,7 +5,7 @@ function cleanmacros()
 
     libpath = get_absolute_file_path("cleanmacros.sce");
 
-    binfiles = ls(libpath+"/*.bin");
+    binfiles = ls(libpath+"/*.bin");disp(binfiles)
     for i = 1:size(binfiles,"*")
         mdelete(binfiles(i));
     end

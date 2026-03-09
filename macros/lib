@@ -3,6 +3,7 @@
   <macro name="%graph_p" file="%graph_p.bin" md5="e7de9bd72c9a93884220893d9bd9a46e"/>
   <macro name="add_edge" file="add_edge.bin" md5="9ac767b7aa11ebda0670d505a3723ba1"/>
   <macro name="add_node" file="add_node.bin" md5="70a4b57b25b79a5682fe430c6502e6b6"/>
+  <macro name="adj_lists" file="adj_lists.bin" md5="10c55655b3aba6add2fa8d3e053bca43"/>
   <macro name="arc_graph" file="arc_graph.bin" md5="9ec4b38f64ae8319318d7fc12cb29c20"/>
   <macro name="arc_number" file="arc_number.bin" md5="64afbd555fe6666fc582bd40b89f4aff"/>
   <macro name="check_graph" file="check_graph.bin" md5="ddde794d7a41db5d50d42f72183b6b20"/>
@@ -22,7 +23,7 @@
   <macro name="graph_union" file="graph_union.bin" md5="07eb7039e32fe743fc5a11da46a9bf7b"/>
   <macro name="knapsack" file="knapsack.bin" md5="cc880f5092c7eb98e6053f55c0989ff7"/>
   <macro name="line_graph" file="line_graph.bin" md5="f51db6e3dff49998e6a7b62beacfd15e"/>
-  <macro name="make_graph" file="make_graph.bin" md5="4725e46b50b9825d30e0baf845aa291c"/>
+  <macro name="make_graph" file="make_graph.bin" md5="0a523e8b6efc2e1238ab32564f12e2d8"/>
   <macro name="mat_2_graph" file="mat_2_graph.bin" md5="64ab37e2ccd4920841ec618591d1cc26"/>
   <macro name="neighbors" file="neighbors.bin" md5="6632401e3b07d76f1ab949870c19e0e1"/>
   <macro name="netclose" file="netclose.bin" md5="8f3f824c63da1ae8335f4e971acce336"/>

@@ -34,7 +34,8 @@ exec('loader.sce',-1)
 printf('***************************************\n')
 printf('** running tests in test/*.tst files **\n')
 printf('***************************************\n')
-status=%t//status=test_run('.',[],'create_ref')
+//status=%t//
+status=test_run('.',[],'create_ref')
 if status then
 printf('*****************************************\n')
 printf('** successful compilation of scinetwk ! \n')

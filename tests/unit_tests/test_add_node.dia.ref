@@ -1,0 +1,40 @@
+G=make_graph("test_g",1,2,[1],[2])
+ G = (graph tlist) with fields:
+the graph "test_g" is directed 
+node number : 2
+edge number : 1
+more informations with test_g.field
+(see test_g(1) for the list of fields)
+G.node_x=[ 0 100]
+ G = (graph tlist) with fields:
+the graph "test_g" is directed 
+node number : 2
+edge number : 1
+more informations with test_g.field
+(see test_g(1) for the list of fields)
+G.node_y=[0 0]
+ G = (graph tlist) with fields:
+the graph "test_g" is directed 
+node number : 2
+edge number : 1
+more informations with test_g.field
+(see test_g(1) for the list of fields)
+G1=add_node(G,[50,100],"new")
+ G1 = (graph tlist) with fields:
+the graph "test_g" is directed 
+node number : 3
+edge number : 1
+more informations with test_g.field
+(see test_g(1) for the list of fields)
+assert_checkequal(G1.node_number,3)
+ ans = 
+  T
+assert_checkequal(G1.node_x,[0,100,50])
+ ans = 
+  T
+assert_checkequal(G1.node_y,[0,0,100])
+ ans = 
+  T
+assert_checkequal(G1.node_name(3),"new")
+ ans = 
+  T

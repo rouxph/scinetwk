@@ -1,0 +1,85 @@
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>adj_lists</title>
+    <style type="text/css" media="all">
+      @import url("scilab_code.css");
+      @import url("xml_code.css");
+      @import url("c_code.css");
+      @import url("style.css");
+    </style>
+  </head>
+  <body>
+    <div class="manualnavbar">
+    <table width="100%"><tr>
+      <td width="30%">
+    	<span class="previous"><a href="add_node.html">&lt;&lt; add_node</a></span>
+
+      </td>
+      <td width="40%" class="center">
+      	<span class="top"><a href="section_1f55602daa6b69723be33a233cae2d30.html">scinetwk</a></span>
+
+      </td>
+      <td width="30%" class="next">
+      	<span class="next"><a href="arc_graph.html">arc_graph &gt;&gt;</a></span>
+
+      </td>
+    </tr></table>
+      <hr />
+    </div>
+
+
+
+    <span class="path" dir="ltr"><a href="index.html">scinetwk</a> &gt;&gt; <a href="section_1f55602daa6b69723be33a233cae2d30.html">scinetwk</a> &gt; adj_lists</span>
+
+    <br /><br />
+    <div class="refnamediv"><h1 class="refname">adj_lists</h1>
+    <p class="refpurpose">SciNetwk</p></div>
+
+
+<div class="refsynopsisdiv"><h3 class="title" id="#L25">Syntax</h3>
+   <div class="synopsis"><pre><span class="default">[</span><span class="default">lp</span><span class="default">,</span><span class="default">la</span><span class="default">,</span><span class="default">ls</span><span class="default">] = </span><span class="functionid">adj_lists</span><span class="default">(</span><span class="default">g</span><span class="default">)</span>
+<span class="default">[</span><span class="default">lp</span><span class="default">,</span><span class="default">la</span><span class="default">,</span><span class="default">ls</span><span class="default">] = </span><span class="functionid">adj_lists</span><span class="default">(</span><span class="default">directed</span><span class="default">,</span><span class="default">n</span><span class="default">,</span><span class="default">tail</span><span class="default">,</span><span class="default">head</span><span class="default">)</span></pre></div></div>
+
+<div class="refsection"><h3 class="title" id="#L34">Parameters</h3>
+   <dl><dt><span class="term">g:</span>
+            <dd><p class="para">graph list</p></dd></dt>
+        <dt><span class="term">directed:</span>
+            <dd><p class="para">integer, 0 (undirected graph) or 1 (directed graph)</p></dd></dt>
+        <dt><span class="term">n:</span>
+            <dd><p class="para">integer, the number of nodes of the graph</p></dd></dt>
+        <dt><span class="term">tail:</span>
+            <dd><p class="para">the row vector of the numbers of the tail nodes of the graph (its size is the number of edges of the graph)</p></dd></dt>
+        <dt><span class="term">head:</span>
+            <dd><p class="para">the row vector of the numbers of the head nodes of the graph (its size is the number of edges of the graph)</p></dd></dt>
+        <dt><span class="term">lp:</span>
+            <dd><p class="para">row vector, pointer array of the adjacency lists description of the graph (its size is the number of nodes of the graph + 1)</p></dd></dt>
+        <dt><span class="term">la:</span>
+            <dd><p class="para">row vector, arc array of the adjacency lists description of the graph (its size is the number of edges of the graph)</p></dd></dt>
+        <dt><span class="term">ls:</span>
+            <dd><p class="para">row vector, node array of the adjacency lists description of the graph (its size is the number of edges of the graph)</p></dd></dt></dl></div>
+
+<div class="refsection"><h3 class="title" id="#L72">Description</h3>
+   <p class="para">adj_lists computes the row vectors of the adjacency lists description of the graph g. It is also possible to give adj_lists the description of the graph given by the number of nodes n and the row vectors tail and head.</p></div>
+    <br />
+
+    <div class="manualnavbar">
+    <table width="100%">
+    <tr><td colspan="3" class="next"><a href="https://gitlab.com/scilab/scilab/-/issues/new" class="ulink">Report an issue</a></td></tr>
+<tr>
+      <td width="30%">
+    	<span class="previous"><a href="add_node.html">&lt;&lt; add_node</a></span>
+
+      </td>
+      <td width="40%" class="center">
+      	<span class="top"><a href="section_1f55602daa6b69723be33a233cae2d30.html">scinetwk</a></span>
+
+      </td>
+      <td width="30%" class="next">
+      	<span class="next"><a href="arc_graph.html">arc_graph &gt;&gt;</a></span>
+
+      </td>
+    </tr></table>
+      <hr />
+    </div>
+  </body>
+</html>
